@@ -1,0 +1,631 @@
+{
+  "authorization": "Owner requested Meaning card replacement/description, removal of Pinterest/Instagram, Twitter in top banner and new home Foundations thumbnail; 2026-11-07, website - sgttomas session.",
+  "baseline_kind": "captured live pages before this update",
+  "cleanup": {
+    "browser_token_scratch_cleared": true,
+    "local_deleted": true,
+    "revoked": true
+  },
+  "confirmed_docroot": "/home/sgttiuxx/public_html",
+  "destination_evidence": {
+    "account": "sgttiuxx",
+    "docroot": "/home/sgttiuxx/public_html",
+    "domain": "sgttomas.com",
+    "method": "DomainInfo/domains_data",
+    "relationship": "direct",
+    "server": "https://server321.web-hosting.com:2083"
+  },
+  "files": [
+    {
+      "expected_sha256": "f8e3490583eb9d661b0a85e13e5e4e3ea7c6a0dd29f53b4fd3bd3fa46368eaf5",
+      "path": "assets/images/and-prays-upright.webp",
+      "sha256": "f8e3490583eb9d661b0a85e13e5e4e3ea7c6a0dd29f53b4fd3bd3fa46368eaf5",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "71f3aebc3a5ba43320a731f3cb528b63c9cc1c43b737b4f269c465a7c898d1dd",
+      "path": "assets/images/foundations-home-thumbnail.webp",
+      "sha256": "71f3aebc3a5ba43320a731f3cb528b63c9cc1c43b737b4f269c465a7c898d1dd",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "81ae201e222f47009870518331066c423b36e5b90766045f19f3a0a112c0ccb6",
+      "path": "index.html",
+      "sha256": "81ae201e222f47009870518331066c423b36e5b90766045f19f3a0a112c0ccb6",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "fcf2619b76abacf150190c8bb9183ece042e664d5fe79cb6b6aae1c4b70efbab",
+      "path": "about.html",
+      "sha256": "fcf2619b76abacf150190c8bb9183ece042e664d5fe79cb6b6aae1c4b70efbab",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "5d34995fa580a3bc7e3d0dbbdc0a5adaeacf994cecadd29741a0f725f84f2525",
+      "path": "contact.html",
+      "sha256": "5d34995fa580a3bc7e3d0dbbdc0a5adaeacf994cecadd29741a0f725f84f2525",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "e46b9d720cb281f3a7daff2b9cdd9570ac023e1aaf252b87823654363ca27604",
+      "path": "dialogue.html",
+      "sha256": "e46b9d720cb281f3a7daff2b9cdd9570ac023e1aaf252b87823654363ca27604",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "3aab645708fdd6a376341d0b9543b15f1ec442b5c3ef9b9c1176c9cb8f39e5dd",
+      "path": "meaning.html",
+      "sha256": "3aab645708fdd6a376341d0b9543b15f1ec442b5c3ef9b9c1176c9cb8f39e5dd",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "8f466244a425b2c50161d1dbd53a047a55b49ba5292fca6d72f76a984ee690b6",
+      "path": "foundationofthespiritualpathmapped.html",
+      "sha256": "8f466244a425b2c50161d1dbd53a047a55b49ba5292fca6d72f76a984ee690b6",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "40587fe2bb7b6ae69de7c9ab26eecbda083958c1f857718c732f4b43e2dfb53e",
+      "path": "intentions.html",
+      "sha256": "40587fe2bb7b6ae69de7c9ab26eecbda083958c1f857718c732f4b43e2dfb53e",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "b07c34a89631b68ccea369e4b439a4dc44072183005f7aa251ba3e948312087b",
+      "path": "the-heart.html",
+      "sha256": "b07c34a89631b68ccea369e4b439a4dc44072183005f7aa251ba3e948312087b",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "c8d1a53aa42d5e0d1372e369c221964d33b5468d906bba181dee55f6b6c66bed",
+      "path": "vulnerability.html",
+      "sha256": "c8d1a53aa42d5e0d1372e369c221964d33b5468d906bba181dee55f6b6c66bed",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "0f6cf611bde09c0257ba819ea429f6588c1dd735836505c63e612bec2a44c17f",
+      "path": "diagrams.html",
+      "sha256": "0f6cf611bde09c0257ba819ea429f6588c1dd735836505c63e612bec2a44c17f",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "928520b7dc503418d7b1392582e52a789ce60df45c9d7e1d5fbfc7328cf7e5b6",
+      "path": "decisions.html",
+      "sha256": "928520b7dc503418d7b1392582e52a789ce60df45c9d7e1d5fbfc7328cf7e5b6",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "7247fb315bddea8eea54645280cafe5e14703199fc33e85c795aee3416ced6c2",
+      "path": "new-page.html",
+      "sha256": "7247fb315bddea8eea54645280cafe5e14703199fc33e85c795aee3416ced6c2",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "7277225b405f6b05ba2c4565226086ee1a113d5dd70b4628b5a05e79ff95942e",
+      "path": "np2.html",
+      "sha256": "7277225b405f6b05ba2c4565226086ee1a113d5dd70b4628b5a05e79ff95942e",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "edefac3337ecd058f012fd95f0a4f2dfb6de0f8cbe34a4504658eacc7b2213f7",
+      "path": "interposing-opposites.html",
+      "sha256": "edefac3337ecd058f012fd95f0a4f2dfb6de0f8cbe34a4504658eacc7b2213f7",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "8fbd55f259aa947e7853ea45b90c7b5b01e54a3f8e130198a96fe1da4145b050",
+      "path": "essays/tell-me-what-you-think.html",
+      "sha256": "8fbd55f259aa947e7853ea45b90c7b5b01e54a3f8e130198a96fe1da4145b050",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "741e7ff05e7bd17b2f22d7e9238b6e60b8fefd8a333bf183e76254a4d6844b29",
+      "path": "essays/exposed.html",
+      "sha256": "741e7ff05e7bd17b2f22d7e9238b6e60b8fefd8a333bf183e76254a4d6844b29",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "bcd4f0a82e8a1d48c0814b2054c1cec47ae10e04051b7823794752eb10790edc",
+      "path": "essays/inspirations.html",
+      "sha256": "bcd4f0a82e8a1d48c0814b2054c1cec47ae10e04051b7823794752eb10790edc",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "fdd05565b0f81b11327c56f2bc72961b5c6d03a12c9701764bd95668ed39e371",
+      "path": "essays/self-consciousness.html",
+      "sha256": "fdd05565b0f81b11327c56f2bc72961b5c6d03a12c9701764bd95668ed39e371",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "e6889b432c5beb67bf13a4c9ebc1446ecc3ba154a14edb060b99ecee88f40a93",
+      "path": "essays/islam-is.html",
+      "sha256": "e6889b432c5beb67bf13a4c9ebc1446ecc3ba154a14edb060b99ecee88f40a93",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "b13ff23107fe2d4c0854ed2bc67fbe0f02c3f90f887d46c9e8b554db91babe8c",
+      "path": "essays/my-thoughts-on-humiliation.html",
+      "sha256": "b13ff23107fe2d4c0854ed2bc67fbe0f02c3f90f887d46c9e8b554db91babe8c",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "bf751766ee4a8f426d33e4f6ea106eb2fcb49456f29bd89fbcead75cc0a363f0",
+      "path": "essays/the-true-believer.html",
+      "sha256": "bf751766ee4a8f426d33e4f6ea106eb2fcb49456f29bd89fbcead75cc0a363f0",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "dcc155f79132a60fe2b85136be413c464410bb9cc2a0026cb5aedeaceeb48476",
+      "path": "404.html",
+      "sha256": "dcc155f79132a60fe2b85136be413c464410bb9cc2a0026cb5aedeaceeb48476",
+      "status": 200,
+      "verified": true
+    }
+  ],
+  "finished_at": "2026-11-07T23:03:31.931519+00:00",
+  "operations": [
+    {
+      "finished_at": "2026-11-07T23:02:43.731074+00:00",
+      "kind": "upload",
+      "path": "assets/images/and-prays-upright.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T23:02:41.203846+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T23:02:45.428893+00:00",
+      "kind": "upload",
+      "path": "assets/images/foundations-home-thumbnail.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T23:02:43.732164+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T23:02:46.763400+00:00",
+      "kind": "upload",
+      "path": "index.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T23:02:45.429812+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T23:02:48.061512+00:00",
+      "kind": "upload",
+      "path": "about.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T23:02:46.764294+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T23:02:49.282304+00:00",
+      "kind": "upload",
+      "path": "contact.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T23:02:48.062177+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T23:02:50.775888+00:00",
+      "kind": "upload",
+      "path": "dialogue.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T23:02:49.283372+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T23:02:52.100020+00:00",
+      "kind": "upload",
+      "path": "meaning.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T23:02:50.777736+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T23:02:53.491502+00:00",
+      "kind": "upload",
+      "path": "foundationofthespiritualpathmapped.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T23:02:52.101005+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T23:02:55.320772+00:00",
+      "kind": "upload",
+      "path": "intentions.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T23:02:53.492039+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T23:02:56.622240+00:00",
+      "kind": "upload",
+      "path": "the-heart.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T23:02:55.321611+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T23:02:57.915386+00:00",
+      "kind": "upload",
+      "path": "vulnerability.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T23:02:56.622759+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T23:02:59.215673+00:00",
+      "kind": "upload",
+      "path": "diagrams.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T23:02:57.916093+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T23:03:00.535019+00:00",
+      "kind": "upload",
+      "path": "decisions.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T23:02:59.216893+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T23:03:01.785343+00:00",
+      "kind": "upload",
+      "path": "new-page.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T23:03:00.535539+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T23:03:03.173183+00:00",
+      "kind": "upload",
+      "path": "np2.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T23:03:01.786189+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T23:03:04.456826+00:00",
+      "kind": "upload",
+      "path": "interposing-opposites.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T23:03:03.173777+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T23:03:05.807372+00:00",
+      "kind": "upload",
+      "path": "essays/tell-me-what-you-think.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T23:03:04.457658+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T23:03:07.186921+00:00",
+      "kind": "upload",
+      "path": "essays/exposed.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T23:03:05.807933+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T23:03:08.497064+00:00",
+      "kind": "upload",
+      "path": "essays/inspirations.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T23:03:07.187782+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T23:03:10.434578+00:00",
+      "kind": "upload",
+      "path": "essays/self-consciousness.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T23:03:08.497715+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T23:03:11.815658+00:00",
+      "kind": "upload",
+      "path": "essays/islam-is.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T23:03:10.435219+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T23:03:13.103573+00:00",
+      "kind": "upload",
+      "path": "essays/my-thoughts-on-humiliation.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T23:03:11.816460+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T23:03:14.319203+00:00",
+      "kind": "upload",
+      "path": "essays/the-true-believer.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T23:03:13.104504+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T23:03:15.532628+00:00",
+      "kind": "upload",
+      "path": "404.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T23:03:14.319990+00:00",
+      "state": "success"
+    }
+  ],
+  "preflight": [
+    {
+      "expected_sha256": null,
+      "host_type": null,
+      "path": "assets/images/and-prays-upright.webp",
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "host_type": null,
+      "path": "assets/images/foundations-home-thumbnail.webp",
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "status": 404
+    },
+    {
+      "expected_sha256": "0e9390ce9b837e1c3d1ae1830a89c0807311e03568df28b9d459c696e43308c1",
+      "host_type": "file",
+      "path": "index.html",
+      "sha256": "0e9390ce9b837e1c3d1ae1830a89c0807311e03568df28b9d459c696e43308c1",
+      "status": 200
+    },
+    {
+      "expected_sha256": "393fe817be2ea1ed67c88aeb1778549cc712df93302f615fd759e1f3eec166c6",
+      "host_type": "file",
+      "path": "about.html",
+      "sha256": "393fe817be2ea1ed67c88aeb1778549cc712df93302f615fd759e1f3eec166c6",
+      "status": 200
+    },
+    {
+      "expected_sha256": "179b88bb088e736533545079792526b618806349f758c37dda46941d0765ea80",
+      "host_type": "file",
+      "path": "contact.html",
+      "sha256": "179b88bb088e736533545079792526b618806349f758c37dda46941d0765ea80",
+      "status": 200
+    },
+    {
+      "expected_sha256": "5093c8dedb3820174d8db8a41e08983bf05c37b81ed7d59465202d95f4ea5047",
+      "host_type": "file",
+      "path": "dialogue.html",
+      "sha256": "5093c8dedb3820174d8db8a41e08983bf05c37b81ed7d59465202d95f4ea5047",
+      "status": 200
+    },
+    {
+      "expected_sha256": "8b06b5c02f911c909853f6cc2d14e1af760b4f33335ab987d156b575cf1682f9",
+      "host_type": "file",
+      "path": "meaning.html",
+      "sha256": "8b06b5c02f911c909853f6cc2d14e1af760b4f33335ab987d156b575cf1682f9",
+      "status": 200
+    },
+    {
+      "expected_sha256": "37a88088b7c4a49b1fb43c84ecc3392030b338013f74f1f62b307b2fc08dc012",
+      "host_type": "file",
+      "path": "foundationofthespiritualpathmapped.html",
+      "sha256": "37a88088b7c4a49b1fb43c84ecc3392030b338013f74f1f62b307b2fc08dc012",
+      "status": 200
+    },
+    {
+      "expected_sha256": "05540e6aaf3ce94f186b127337f33b71e0a7a3665c4d8ff78bd4c5256e7de84e",
+      "host_type": "file",
+      "path": "intentions.html",
+      "sha256": "05540e6aaf3ce94f186b127337f33b71e0a7a3665c4d8ff78bd4c5256e7de84e",
+      "status": 200
+    },
+    {
+      "expected_sha256": "77d531304a7fdd37aa5b04e1f039de13faaeed1731ebced9ac2041deb7793479",
+      "host_type": "file",
+      "path": "the-heart.html",
+      "sha256": "77d531304a7fdd37aa5b04e1f039de13faaeed1731ebced9ac2041deb7793479",
+      "status": 200
+    },
+    {
+      "expected_sha256": "cd0242ae6b95f3f4af17e5755604c646a6e166da5f87174f7a42a95f3be5e4f1",
+      "host_type": "file",
+      "path": "vulnerability.html",
+      "sha256": "cd0242ae6b95f3f4af17e5755604c646a6e166da5f87174f7a42a95f3be5e4f1",
+      "status": 200
+    },
+    {
+      "expected_sha256": "bd7a5f3d82b70c162856a404c933ebbeb313373675ffa5c4e8695fa87dba7505",
+      "host_type": "file",
+      "path": "diagrams.html",
+      "sha256": "bd7a5f3d82b70c162856a404c933ebbeb313373675ffa5c4e8695fa87dba7505",
+      "status": 200
+    },
+    {
+      "expected_sha256": "d3a8cf7a2c356d7e9e056bcb655617fe2da8ebb741fee4dcb0cc6c37e223aa66",
+      "host_type": "file",
+      "path": "decisions.html",
+      "sha256": "d3a8cf7a2c356d7e9e056bcb655617fe2da8ebb741fee4dcb0cc6c37e223aa66",
+      "status": 200
+    },
+    {
+      "expected_sha256": "2e621b431149f077946a07e560ea1645adf61be76774fbcbb44ec45ac72e9a14",
+      "host_type": "file",
+      "path": "new-page.html",
+      "sha256": "2e621b431149f077946a07e560ea1645adf61be76774fbcbb44ec45ac72e9a14",
+      "status": 200
+    },
+    {
+      "expected_sha256": "8b5f418dd6ba3ddeb88c170883676fe5cd2e4269fa720362f5ab2a9d70dd729f",
+      "host_type": "file",
+      "path": "np2.html",
+      "sha256": "8b5f418dd6ba3ddeb88c170883676fe5cd2e4269fa720362f5ab2a9d70dd729f",
+      "status": 200
+    },
+    {
+      "expected_sha256": "46803470e9c8ee4feb8679356df581eaaf7dc43860caeaab8391d3796447c0d0",
+      "host_type": "file",
+      "path": "interposing-opposites.html",
+      "sha256": "46803470e9c8ee4feb8679356df581eaaf7dc43860caeaab8391d3796447c0d0",
+      "status": 200
+    },
+    {
+      "expected_sha256": "2f4f9340376d359e0f1164509b311950fd56f473535c4a87d363e10fabe0f19a",
+      "host_type": "file",
+      "path": "essays/tell-me-what-you-think.html",
+      "sha256": "2f4f9340376d359e0f1164509b311950fd56f473535c4a87d363e10fabe0f19a",
+      "status": 200
+    },
+    {
+      "expected_sha256": "b0e17c42f12515b5475219158ef892f13597d0c829d8a2e7b27fe0489d136e4b",
+      "host_type": "file",
+      "path": "essays/exposed.html",
+      "sha256": "b0e17c42f12515b5475219158ef892f13597d0c829d8a2e7b27fe0489d136e4b",
+      "status": 200
+    },
+    {
+      "expected_sha256": "f74c2196d1a1f58b065b68e39e1408679e2188bb3cdf2e1a6d866304fe1bb26b",
+      "host_type": "file",
+      "path": "essays/inspirations.html",
+      "sha256": "f74c2196d1a1f58b065b68e39e1408679e2188bb3cdf2e1a6d866304fe1bb26b",
+      "status": 200
+    },
+    {
+      "expected_sha256": "986469f37d0b0c1b991fec90c557ce094002c81d4c178fbac4a275166ab1ffb2",
+      "host_type": "file",
+      "path": "essays/self-consciousness.html",
+      "sha256": "986469f37d0b0c1b991fec90c557ce094002c81d4c178fbac4a275166ab1ffb2",
+      "status": 200
+    },
+    {
+      "expected_sha256": "a658f7b98d4ca9b91bbc8b2b5f3517e7b83cd5c7b0d341398ed012f266bfbcb7",
+      "host_type": "file",
+      "path": "essays/islam-is.html",
+      "sha256": "a658f7b98d4ca9b91bbc8b2b5f3517e7b83cd5c7b0d341398ed012f266bfbcb7",
+      "status": 200
+    },
+    {
+      "expected_sha256": "0d557aa96c91eedd72466dce392bb0574ede6b8dfab9da3d79a633bcd6fbc22e",
+      "host_type": "file",
+      "path": "essays/my-thoughts-on-humiliation.html",
+      "sha256": "0d557aa96c91eedd72466dce392bb0574ede6b8dfab9da3d79a633bcd6fbc22e",
+      "status": 200
+    },
+    {
+      "expected_sha256": "fc1d22eeb7effcd19e40e816b7e1fe60141addfe913e22a3e2f6ac8cde0356f0",
+      "host_type": "file",
+      "path": "essays/the-true-believer.html",
+      "sha256": "fc1d22eeb7effcd19e40e816b7e1fe60141addfe913e22a3e2f6ac8cde0356f0",
+      "status": 200
+    },
+    {
+      "expected_sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "host_type": "file",
+      "path": "404.html",
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "status": 200
+    }
+  ],
+  "scope": "And Prays relocation/rotation, home Foundations thumbnail, social links across all public HTML pages",
+  "site": "sgttomas.com",
+  "source_commit": "7c6228a205fd497a999e3edf3c7deceabcdfecfb",
+  "started_at": "2026-11-07T23:02:19.125083+00:00",
+  "status": "success",
+  "verified_at": "2026-11-07T23:03:30.991408+00:00"
+}
