@@ -1,0 +1,2118 @@
+{
+  "authorization": "Owner requested these project-page layouts and improved blog; supplied both Foundations PDFs; required independent Claude Opus 5.5 medium review; then clarified full uncropped Decisions spiral. 2026-11-07, website - sgttomas session.",
+  "baseline_kind": "per-file captured live pages and previous verified gallery publication; initial Git checkout predates the restored live site",
+  "cleanup": {
+    "browser_token_scratch_cleared": true,
+    "local_deleted": true,
+    "revoked": true
+  },
+  "confirmed_docroot": "/home/sgttiuxx/public_html",
+  "destination_evidence": {
+    "account": "sgttiuxx",
+    "docroot": "/home/sgttiuxx/public_html",
+    "domain": "sgttomas.com",
+    "method": "DomainInfo/domains_data",
+    "relationship": "direct",
+    "server": "https://server321.web-hosting.com:2083"
+  },
+  "files": [
+    {
+      "expected_sha256": "653638c9738e18ad8e23f0c8f4e354f5f90d031b8fbdadf37d8206611d0e6d8d",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/intentions-thumbnails/intention-07d92b0fa1ce.webp",
+      "redirected": false,
+      "sha256": "653638c9738e18ad8e23f0c8f4e354f5f90d031b8fbdadf37d8206611d0e6d8d",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "8e304d1d7cf49f4a76fb012e55c984888e14c7bcce77e148f53cd375308d6e59",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/intentions-thumbnails/intention-113fead7c3cd.webp",
+      "redirected": false,
+      "sha256": "8e304d1d7cf49f4a76fb012e55c984888e14c7bcce77e148f53cd375308d6e59",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "104a528295083e80f15cfc842de4c76d1284cc4cc2cdaeb6175df04123b0d0ec",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/intentions-thumbnails/intention-14738d0f418b.webp",
+      "redirected": false,
+      "sha256": "104a528295083e80f15cfc842de4c76d1284cc4cc2cdaeb6175df04123b0d0ec",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "5b266dd063809f2a3a70ab86ab3f11b92a753c47bfec9a930b02c11a88df7de7",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/intentions-thumbnails/intention-30e3b72d890e.webp",
+      "redirected": false,
+      "sha256": "5b266dd063809f2a3a70ab86ab3f11b92a753c47bfec9a930b02c11a88df7de7",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "6ad880fa88d4d79d25e0d1282dd4ce7745fd3f8487e5462bf4fcd381e95af00c",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/intentions-thumbnails/intention-3151d629ecff.webp",
+      "redirected": false,
+      "sha256": "6ad880fa88d4d79d25e0d1282dd4ce7745fd3f8487e5462bf4fcd381e95af00c",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "c283177f105763acd2c9e956d2da6e51e19ad9a9d48690fc03fce6500077c2c4",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/intentions-thumbnails/intention-45487cb46598.webp",
+      "redirected": false,
+      "sha256": "c283177f105763acd2c9e956d2da6e51e19ad9a9d48690fc03fce6500077c2c4",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "9545e16c88bc3215fcf792df416cdf1666d7bca0d546382f3e3afa7f234513a2",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/intentions-thumbnails/intention-49339513e845.webp",
+      "redirected": false,
+      "sha256": "9545e16c88bc3215fcf792df416cdf1666d7bca0d546382f3e3afa7f234513a2",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "24426680f8d716f1f557a98c7301508c8a9151cd96b5bbdadb8af3891d1edb3b",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/intentions-thumbnails/intention-56d0a4634c1e.webp",
+      "redirected": false,
+      "sha256": "24426680f8d716f1f557a98c7301508c8a9151cd96b5bbdadb8af3891d1edb3b",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "64732278759f5be24607a889e321e6d59d2a082a26aaf7189f2c80a774a6b6ee",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/intentions-thumbnails/intention-6463e3ec632a.webp",
+      "redirected": false,
+      "sha256": "64732278759f5be24607a889e321e6d59d2a082a26aaf7189f2c80a774a6b6ee",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "beb9ebd9b4dff2a196054b52d6eb0d21c8ed805237c5275b501829cbaed25d86",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/intentions-thumbnails/intention-75e10522e276.webp",
+      "redirected": false,
+      "sha256": "beb9ebd9b4dff2a196054b52d6eb0d21c8ed805237c5275b501829cbaed25d86",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "06c4ea4181db94c64d85d0f7e685a5f740ddd69164599b90b5527044897e9194",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/intentions-thumbnails/intention-86bd8db04716.webp",
+      "redirected": false,
+      "sha256": "06c4ea4181db94c64d85d0f7e685a5f740ddd69164599b90b5527044897e9194",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "7addd7384b2a48bb06ecf7d6113582412c2021343a57633ed4a0c2dc0294643b",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/intentions-thumbnails/intention-93ac3d76fcae.webp",
+      "redirected": false,
+      "sha256": "7addd7384b2a48bb06ecf7d6113582412c2021343a57633ed4a0c2dc0294643b",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "b0ad5d3f6dcc92f87d9707dbb78984ae659ba902fd9ff8fbedb42e1a52a870bc",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/intentions-thumbnails/intention-97675966836c.webp",
+      "redirected": false,
+      "sha256": "b0ad5d3f6dcc92f87d9707dbb78984ae659ba902fd9ff8fbedb42e1a52a870bc",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "df82156150341187bb188bc9c3eb7749112edcd5fc924466da8c3fdcafe7d215",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/intentions-thumbnails/intention-cce7304c8480.webp",
+      "redirected": false,
+      "sha256": "df82156150341187bb188bc9c3eb7749112edcd5fc924466da8c3fdcafe7d215",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "06c3342a0e0ec9b1e69919c1d193606f2fae4c23fd8f1f8276b6a1a1fb97c443",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/intentions-thumbnails/intention-d6d3af415308.webp",
+      "redirected": false,
+      "sha256": "06c3342a0e0ec9b1e69919c1d193606f2fae4c23fd8f1f8276b6a1a1fb97c443",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "c1c5e742d5d884ebd0e8bc24c7e938a1583b1aef510f6c86f9a31934b847d11c",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/intentions-thumbnails/intention-ebfa8c83410f.webp",
+      "redirected": false,
+      "sha256": "c1c5e742d5d884ebd0e8bc24c7e938a1583b1aef510f6c86f9a31934b847d11c",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "8c60c5cf71fe15cf08348cf1d88984339e7a18aa46d7d7855cf891b00a14a425",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/intentions-thumbnails/intention-edecff4559c4.webp",
+      "redirected": false,
+      "sha256": "8c60c5cf71fe15cf08348cf1d88984339e7a18aa46d7d7855cf891b00a14a425",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "b656cb35c0f98b4d5f2cf69ee241dfc183ea63de58b1845c57aab648217e2ff1",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/intentions-thumbnails/intention-ee95d7bd9156.webp",
+      "redirected": false,
+      "sha256": "b656cb35c0f98b4d5f2cf69ee241dfc183ea63de58b1845c57aab648217e2ff1",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "878b1c1e96fb474aedd2aa3ef8b512802e8ee3bf381a564de344c022d5b18841",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/intentions-thumbnails/intention-f71c809baf68.webp",
+      "redirected": false,
+      "sha256": "878b1c1e96fb474aedd2aa3ef8b512802e8ee3bf381a564de344c022d5b18841",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "5c7929a36ce2dd4b77ac48f8389c39a74339128c5d22b113d21ecfd31106513c",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/project-layouts/decisions-upper-detail.webp",
+      "redirected": false,
+      "sha256": "5c7929a36ce2dd4b77ac48f8389c39a74339128c5d22b113d21ecfd31106513c",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "da9b386f431440653f7c61dd300a864f244bfccef054b535dc7e75abb8bed0c5",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/project-layouts/foundations-centre.webp",
+      "redirected": false,
+      "sha256": "da9b386f431440653f7c61dd300a864f244bfccef054b535dc7e75abb8bed0c5",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "2f7d0fde0d05e0de654216154310e43e9db66a7ee50f142af646531fa647998d",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/project-layouts/foundations-counsel.webp",
+      "redirected": false,
+      "sha256": "2f7d0fde0d05e0de654216154310e43e9db66a7ee50f142af646531fa647998d",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "3b38a10cc08a3342f4cb969e511e08b354e874e762539cf23dc55b662258c0a6",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/project-layouts/foundations-mercy.webp",
+      "redirected": false,
+      "sha256": "3b38a10cc08a3342f4cb969e511e08b354e874e762539cf23dc55b662258c0a6",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "e29b85af235cd1cee62128c6a93c2419e0fc763ff12e2a968440dbee582d233f",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/project-layouts/foundations-practice.webp",
+      "redirected": false,
+      "sha256": "e29b85af235cd1cee62128c6a93c2419e0fc763ff12e2a968440dbee582d233f",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "59f9c2bc94276454e8b616f47acdd78f193d02fe49b9ca97611c9666ddb10d8c",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/project-layouts/foundations-roots.webp",
+      "redirected": false,
+      "sha256": "59f9c2bc94276454e8b616f47acdd78f193d02fe49b9ca97611c9666ddb10d8c",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "be14e6536843eab019ff381ca1844bf90f58373fbfac0287b8ca1a55b515ced3",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/project-layouts/foundations-text.webp",
+      "redirected": false,
+      "sha256": "be14e6536843eab019ff381ca1844bf90f58373fbfac0287b8ca1a55b515ced3",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "8a9e560427a00f89245c43d51560d9663fb75dc8c7992bdf5d33d41253a9bd8c",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/project-layouts/foundations-warning.webp",
+      "redirected": false,
+      "sha256": "8a9e560427a00f89245c43d51560d9663fb75dc8c7992bdf5d33d41253a9bd8c",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "02562179e511205dbe7db8c9439f976e8697cecbe4240d2f54d488a9165cdadd",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/project-layouts/the-abyss.webp",
+      "redirected": false,
+      "sha256": "02562179e511205dbe7db8c9439f976e8697cecbe4240d2f54d488a9165cdadd",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "e27a0f5cd2a828785281f3d8571578e38d44d2cf1823243f501275e7dfd6ef2b",
+      "headers": {
+        "content-type": "application/pdf",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "downloads/foundations-spiritual-path-original.pdf",
+      "redirected": false,
+      "sha256": "e27a0f5cd2a828785281f3d8571578e38d44d2cf1823243f501275e7dfd6ef2b",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "798c0eca35fec98deab088e15b86e78cf030c30ab585e07e4250cea0e8071cdc",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "text/css",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/blog.css",
+      "redirected": false,
+      "sha256": "798c0eca35fec98deab088e15b86e78cf030c30ab585e07e4250cea0e8071cdc",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "48a0306529d36112a93680f009ec1ef0aa84c3a8a75f4c5a0d0b553e340417bd",
+      "headers": {
+        "content-type": "text/javascript",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/blog.js",
+      "redirected": false,
+      "sha256": "48a0306529d36112a93680f009ec1ef0aa84c3a8a75f4c5a0d0b553e340417bd",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "bb45b81fa7642f03f559d7cd70e2dea920f296315cfb7fcec2a1168700d10a24",
+      "headers": {
+        "content-type": "text/javascript",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/diagrams-gallery.js",
+      "redirected": false,
+      "sha256": "bb45b81fa7642f03f559d7cd70e2dea920f296315cfb7fcec2a1168700d10a24",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "1950027029039db5e90912cc16fb3611039064d6e7c3f2da8af2e78430019a17",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "text/css",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/project-layouts.css",
+      "redirected": false,
+      "sha256": "1950027029039db5e90912cc16fb3611039064d6e7c3f2da8af2e78430019a17",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "92b33fe3471427b45c8e3c738d810c161df163981629d725a9c5e08608e5529e",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "text/css",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/site.css",
+      "redirected": false,
+      "sha256": "92b33fe3471427b45c8e3c738d810c161df163981629d725a9c5e08608e5529e",
+      "status": 200,
+      "uploaded": false,
+      "verified": true
+    },
+    {
+      "expected_sha256": "b0e17c42f12515b5475219158ef892f13597d0c829d8a2e7b27fe0489d136e4b",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "essays/exposed.html",
+      "redirected": false,
+      "sha256": "b0e17c42f12515b5475219158ef892f13597d0c829d8a2e7b27fe0489d136e4b",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "f74c2196d1a1f58b065b68e39e1408679e2188bb3cdf2e1a6d866304fe1bb26b",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "essays/inspirations.html",
+      "redirected": false,
+      "sha256": "f74c2196d1a1f58b065b68e39e1408679e2188bb3cdf2e1a6d866304fe1bb26b",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "a658f7b98d4ca9b91bbc8b2b5f3517e7b83cd5c7b0d341398ed012f266bfbcb7",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "essays/islam-is.html",
+      "redirected": false,
+      "sha256": "a658f7b98d4ca9b91bbc8b2b5f3517e7b83cd5c7b0d341398ed012f266bfbcb7",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "0d557aa96c91eedd72466dce392bb0574ede6b8dfab9da3d79a633bcd6fbc22e",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "essays/my-thoughts-on-humiliation.html",
+      "redirected": false,
+      "sha256": "0d557aa96c91eedd72466dce392bb0574ede6b8dfab9da3d79a633bcd6fbc22e",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "986469f37d0b0c1b991fec90c557ce094002c81d4c178fbac4a275166ab1ffb2",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "essays/self-consciousness.html",
+      "redirected": false,
+      "sha256": "986469f37d0b0c1b991fec90c557ce094002c81d4c178fbac4a275166ab1ffb2",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "2f4f9340376d359e0f1164509b311950fd56f473535c4a87d363e10fabe0f19a",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "essays/tell-me-what-you-think.html",
+      "redirected": false,
+      "sha256": "2f4f9340376d359e0f1164509b311950fd56f473535c4a87d363e10fabe0f19a",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "fc1d22eeb7effcd19e40e816b7e1fe60141addfe913e22a3e2f6ac8cde0356f0",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "essays/the-true-believer.html",
+      "redirected": false,
+      "sha256": "fc1d22eeb7effcd19e40e816b7e1fe60141addfe913e22a3e2f6ac8cde0356f0",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "d3a8cf7a2c356d7e9e056bcb655617fe2da8ebb741fee4dcb0cc6c37e223aa66",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "decisions.html",
+      "redirected": false,
+      "sha256": "d3a8cf7a2c356d7e9e056bcb655617fe2da8ebb741fee4dcb0cc6c37e223aa66",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "bd7a5f3d82b70c162856a404c933ebbeb313373675ffa5c4e8695fa87dba7505",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "diagrams.html",
+      "redirected": false,
+      "sha256": "bd7a5f3d82b70c162856a404c933ebbeb313373675ffa5c4e8695fa87dba7505",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "5093c8dedb3820174d8db8a41e08983bf05c37b81ed7d59465202d95f4ea5047",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "dialogue.html",
+      "redirected": false,
+      "sha256": "5093c8dedb3820174d8db8a41e08983bf05c37b81ed7d59465202d95f4ea5047",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "37a88088b7c4a49b1fb43c84ecc3392030b338013f74f1f62b307b2fc08dc012",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "foundationofthespiritualpathmapped.html",
+      "redirected": false,
+      "sha256": "37a88088b7c4a49b1fb43c84ecc3392030b338013f74f1f62b307b2fc08dc012",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "05540e6aaf3ce94f186b127337f33b71e0a7a3665c4d8ff78bd4c5256e7de84e",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "intentions.html",
+      "redirected": false,
+      "sha256": "05540e6aaf3ce94f186b127337f33b71e0a7a3665c4d8ff78bd4c5256e7de84e",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "8b06b5c02f911c909853f6cc2d14e1af760b4f33335ab987d156b575cf1682f9",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "meaning.html",
+      "redirected": false,
+      "sha256": "8b06b5c02f911c909853f6cc2d14e1af760b4f33335ab987d156b575cf1682f9",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "77d531304a7fdd37aa5b04e1f039de13faaeed1731ebced9ac2041deb7793479",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "the-heart.html",
+      "redirected": false,
+      "sha256": "77d531304a7fdd37aa5b04e1f039de13faaeed1731ebced9ac2041deb7793479",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    },
+    {
+      "expected_sha256": "54691ef12c87ee5f527c8a036faa0419f273967362624749bbdf618889964c63",
+      "headers": {
+        "content-type": "application/xml",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "dialogue-feed.xml",
+      "redirected": false,
+      "sha256": "54691ef12c87ee5f527c8a036faa0419f273967362624749bbdf618889964c63",
+      "status": 200,
+      "uploaded": true,
+      "verified": true
+    }
+  ],
+  "finished_at": "2026-11-07T22:31:10.335384+00:00",
+  "independent_review": {
+    "corrections_commit": "2c78a04",
+    "effort": "medium",
+    "findings_resolved": true,
+    "model": "claude-opus-5-5",
+    "record": "reviews/project-layout-review-20261107.md",
+    "reviewed_commit": "bea524a"
+  },
+  "live_browser_checks": {
+    "decisions_spiral_uncropped_and_spatial_details": true,
+    "diagrams_17_images_regression": true,
+    "dialogue_filter_and_catalogue_state": true,
+    "foundations_eight_panels_correct_spatial_grid_no_annotations": true,
+    "intentions_19_images_caption_visible": true,
+    "meaning_nine_ordered_squares": true,
+    "public_reply_address": true,
+    "taxonomy_and_prays_together": true,
+    "unicorn_5_pages_focus_preserved_mountain_after": true
+  },
+  "operations": [
+    {
+      "finished_at": "2026-11-07T22:29:01.444131+00:00",
+      "kind": "mkdir",
+      "path": "/home/sgttiuxx/public_html/assets/images/intentions-thumbnails",
+      "result": {
+        "events": {
+          "event": 1,
+          "postevent": 1,
+          "preevent": 1
+        },
+        "file_results": [
+          null
+        ]
+      },
+      "started_at": "2026-11-07T22:29:00.699660+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:02.188280+00:00",
+      "kind": "mkdir",
+      "path": "/home/sgttiuxx/public_html/assets/images/project-layouts",
+      "result": {
+        "events": {
+          "event": 1,
+          "postevent": 1,
+          "preevent": 1
+        },
+        "file_results": [
+          null
+        ]
+      },
+      "started_at": "2026-11-07T22:29:01.445008+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:03.513631+00:00",
+      "kind": "upload",
+      "path": "assets/images/intentions-thumbnails/intention-07d92b0fa1ce.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:02.189232+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:04.838047+00:00",
+      "kind": "upload",
+      "path": "assets/images/intentions-thumbnails/intention-113fead7c3cd.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:03.514674+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:06.134270+00:00",
+      "kind": "upload",
+      "path": "assets/images/intentions-thumbnails/intention-14738d0f418b.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:04.838948+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:07.425172+00:00",
+      "kind": "upload",
+      "path": "assets/images/intentions-thumbnails/intention-30e3b72d890e.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:06.135196+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:08.887437+00:00",
+      "kind": "upload",
+      "path": "assets/images/intentions-thumbnails/intention-3151d629ecff.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:07.426262+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:10.150727+00:00",
+      "kind": "upload",
+      "path": "assets/images/intentions-thumbnails/intention-45487cb46598.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:08.888300+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:11.434136+00:00",
+      "kind": "upload",
+      "path": "assets/images/intentions-thumbnails/intention-49339513e845.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:10.151693+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:12.747364+00:00",
+      "kind": "upload",
+      "path": "assets/images/intentions-thumbnails/intention-56d0a4634c1e.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:11.435936+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:14.049436+00:00",
+      "kind": "upload",
+      "path": "assets/images/intentions-thumbnails/intention-6463e3ec632a.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:12.748444+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:15.365552+00:00",
+      "kind": "upload",
+      "path": "assets/images/intentions-thumbnails/intention-75e10522e276.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:14.050504+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:16.888548+00:00",
+      "kind": "upload",
+      "path": "assets/images/intentions-thumbnails/intention-86bd8db04716.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:15.366496+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:18.367622+00:00",
+      "kind": "upload",
+      "path": "assets/images/intentions-thumbnails/intention-93ac3d76fcae.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:16.889440+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:19.668453+00:00",
+      "kind": "upload",
+      "path": "assets/images/intentions-thumbnails/intention-97675966836c.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:18.368523+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:21.209218+00:00",
+      "kind": "upload",
+      "path": "assets/images/intentions-thumbnails/intention-cce7304c8480.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:19.669577+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:22.604369+00:00",
+      "kind": "upload",
+      "path": "assets/images/intentions-thumbnails/intention-d6d3af415308.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:21.210472+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:23.909573+00:00",
+      "kind": "upload",
+      "path": "assets/images/intentions-thumbnails/intention-ebfa8c83410f.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:22.607817+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:25.203388+00:00",
+      "kind": "upload",
+      "path": "assets/images/intentions-thumbnails/intention-edecff4559c4.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:23.910521+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:29.857058+00:00",
+      "kind": "upload",
+      "path": "assets/images/intentions-thumbnails/intention-ee95d7bd9156.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:25.204314+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:32.139423+00:00",
+      "kind": "upload",
+      "path": "assets/images/intentions-thumbnails/intention-f71c809baf68.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:29.858245+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:34.585931+00:00",
+      "kind": "upload",
+      "path": "assets/images/project-layouts/decisions-upper-detail.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:32.140376+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:40.503819+00:00",
+      "kind": "upload",
+      "path": "assets/images/project-layouts/foundations-centre.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:34.587090+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:43.488947+00:00",
+      "kind": "upload",
+      "path": "assets/images/project-layouts/foundations-counsel.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:40.506572+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:48.829081+00:00",
+      "kind": "upload",
+      "path": "assets/images/project-layouts/foundations-mercy.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:43.491086+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:51.205046+00:00",
+      "kind": "upload",
+      "path": "assets/images/project-layouts/foundations-practice.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:48.830219+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:53.814633+00:00",
+      "kind": "upload",
+      "path": "assets/images/project-layouts/foundations-roots.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:51.206073+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:56.321786+00:00",
+      "kind": "upload",
+      "path": "assets/images/project-layouts/foundations-text.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:53.815812+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:29:59.229066+00:00",
+      "kind": "upload",
+      "path": "assets/images/project-layouts/foundations-warning.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:56.322833+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:30:01.842486+00:00",
+      "kind": "upload",
+      "path": "assets/images/project-layouts/the-abyss.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:29:59.230127+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:30:05.048190+00:00",
+      "kind": "upload",
+      "path": "downloads/foundations-spiritual-path-original.pdf",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T22:30:01.846289+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:30:06.561391+00:00",
+      "kind": "upload",
+      "path": "assets/blog.css",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T22:30:05.049247+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:30:08.032694+00:00",
+      "kind": "upload",
+      "path": "assets/blog.js",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T22:30:06.562352+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:30:10.288698+00:00",
+      "kind": "upload",
+      "path": "assets/diagrams-gallery.js",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T22:30:08.033861+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:30:11.653082+00:00",
+      "kind": "upload",
+      "path": "assets/project-layouts.css",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T22:30:10.289661+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:30:13.017965+00:00",
+      "kind": "upload",
+      "path": "essays/exposed.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T22:30:11.654220+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:30:14.428132+00:00",
+      "kind": "upload",
+      "path": "essays/inspirations.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T22:30:13.021832+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:30:15.882606+00:00",
+      "kind": "upload",
+      "path": "essays/islam-is.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T22:30:14.429173+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:30:17.162782+00:00",
+      "kind": "upload",
+      "path": "essays/my-thoughts-on-humiliation.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T22:30:15.883618+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:30:18.620380+00:00",
+      "kind": "upload",
+      "path": "essays/self-consciousness.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T22:30:17.163932+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:30:20.080692+00:00",
+      "kind": "upload",
+      "path": "essays/tell-me-what-you-think.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T22:30:18.621610+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:30:21.484216+00:00",
+      "kind": "upload",
+      "path": "essays/the-true-believer.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T22:30:20.081707+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:30:22.870930+00:00",
+      "kind": "upload",
+      "path": "decisions.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T22:30:21.485317+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:30:24.304070+00:00",
+      "kind": "upload",
+      "path": "diagrams.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T22:30:22.872202+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:30:25.960257+00:00",
+      "kind": "upload",
+      "path": "dialogue.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T22:30:24.305326+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:30:27.198178+00:00",
+      "kind": "upload",
+      "path": "foundationofthespiritualpathmapped.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T22:30:25.961448+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:30:28.616278+00:00",
+      "kind": "upload",
+      "path": "intentions.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T22:30:27.201005+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:30:30.155274+00:00",
+      "kind": "upload",
+      "path": "meaning.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T22:30:28.617981+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:30:31.428831+00:00",
+      "kind": "upload",
+      "path": "the-heart.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T22:30:30.158271+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T22:30:32.778608+00:00",
+      "kind": "upload",
+      "path": "dialogue-feed.xml",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T22:30:31.430262+00:00",
+      "state": "success"
+    }
+  ],
+  "planned_mkdirs": [
+    "/home/sgttiuxx/public_html/assets/images/intentions-thumbnails",
+    "/home/sgttiuxx/public_html/assets/images/project-layouts"
+  ],
+  "preflight": [
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/intentions-thumbnails/intention-07d92b0fa1ce.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/intentions-thumbnails/intention-113fead7c3cd.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/intentions-thumbnails/intention-14738d0f418b.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/intentions-thumbnails/intention-30e3b72d890e.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/intentions-thumbnails/intention-3151d629ecff.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/intentions-thumbnails/intention-45487cb46598.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/intentions-thumbnails/intention-49339513e845.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/intentions-thumbnails/intention-56d0a4634c1e.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/intentions-thumbnails/intention-6463e3ec632a.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/intentions-thumbnails/intention-75e10522e276.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/intentions-thumbnails/intention-86bd8db04716.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/intentions-thumbnails/intention-93ac3d76fcae.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/intentions-thumbnails/intention-97675966836c.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/intentions-thumbnails/intention-cce7304c8480.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/intentions-thumbnails/intention-d6d3af415308.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/intentions-thumbnails/intention-ebfa8c83410f.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/intentions-thumbnails/intention-edecff4559c4.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/intentions-thumbnails/intention-ee95d7bd9156.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/intentions-thumbnails/intention-f71c809baf68.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/project-layouts/decisions-upper-detail.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/project-layouts/foundations-centre.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/project-layouts/foundations-counsel.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/project-layouts/foundations-mercy.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/project-layouts/foundations-practice.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/project-layouts/foundations-roots.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/project-layouts/foundations-text.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/project-layouts/foundations-warning.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/project-layouts/the-abyss.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "downloads/foundations-spiritual-path-original.pdf",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/blog.css",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/blog.js",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": "5e9b1de960698d96f39202918cb3a56510090a0ef49fe06124d9ae7cb7eae5d3",
+      "headers": {
+        "content-type": "text/javascript",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": "file",
+      "path": "assets/diagrams-gallery.js",
+      "redirected": false,
+      "sha256": "5e9b1de960698d96f39202918cb3a56510090a0ef49fe06124d9ae7cb7eae5d3",
+      "source_sync_only": false,
+      "status": 200
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/project-layouts.css",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    },
+    {
+      "expected_sha256": "92b33fe3471427b45c8e3c738d810c161df163981629d725a9c5e08608e5529e",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "text/css",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": "file",
+      "path": "assets/site.css",
+      "redirected": false,
+      "sha256": "92b33fe3471427b45c8e3c738d810c161df163981629d725a9c5e08608e5529e",
+      "source_sync_only": true,
+      "status": 200
+    },
+    {
+      "expected_sha256": "27b07c03ebaae16174d5e1018ed7749d27a2a12f1c39d119db9a6c00c0ba962a",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": "file",
+      "path": "essays/exposed.html",
+      "redirected": false,
+      "sha256": "27b07c03ebaae16174d5e1018ed7749d27a2a12f1c39d119db9a6c00c0ba962a",
+      "source_sync_only": false,
+      "status": 200
+    },
+    {
+      "expected_sha256": "d79bd491f0047d31857b2f8a55fbf7f7a524a8954d377cd5330a68dc1d5dbe6f",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": "file",
+      "path": "essays/inspirations.html",
+      "redirected": false,
+      "sha256": "d79bd491f0047d31857b2f8a55fbf7f7a524a8954d377cd5330a68dc1d5dbe6f",
+      "source_sync_only": false,
+      "status": 200
+    },
+    {
+      "expected_sha256": "27c6c9deec1167e36c0c4b267b2ec96c3ad1f5f397b39c835c6841bb2e9182f0",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": "file",
+      "path": "essays/islam-is.html",
+      "redirected": false,
+      "sha256": "27c6c9deec1167e36c0c4b267b2ec96c3ad1f5f397b39c835c6841bb2e9182f0",
+      "source_sync_only": false,
+      "status": 200
+    },
+    {
+      "expected_sha256": "460614a1354bfb6a2d6e8bca723128b0349a2136344464c5e05e29b1a4f6a92b",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": "file",
+      "path": "essays/my-thoughts-on-humiliation.html",
+      "redirected": false,
+      "sha256": "460614a1354bfb6a2d6e8bca723128b0349a2136344464c5e05e29b1a4f6a92b",
+      "source_sync_only": false,
+      "status": 200
+    },
+    {
+      "expected_sha256": "811cc6578b528353894c119deaa333689c99b9438004965895e1975c92be4834",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": "file",
+      "path": "essays/self-consciousness.html",
+      "redirected": false,
+      "sha256": "811cc6578b528353894c119deaa333689c99b9438004965895e1975c92be4834",
+      "source_sync_only": false,
+      "status": 200
+    },
+    {
+      "expected_sha256": "3895fa04b58d67fee3c100090e0dfe22e021496038753115b50fae303765f1b1",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": "file",
+      "path": "essays/tell-me-what-you-think.html",
+      "redirected": false,
+      "sha256": "3895fa04b58d67fee3c100090e0dfe22e021496038753115b50fae303765f1b1",
+      "source_sync_only": false,
+      "status": 200
+    },
+    {
+      "expected_sha256": "6581871bb13680fb37b53b96dee03e353c79bdb42c67bf5bcc4a6647d577ead8",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": "file",
+      "path": "essays/the-true-believer.html",
+      "redirected": false,
+      "sha256": "6581871bb13680fb37b53b96dee03e353c79bdb42c67bf5bcc4a6647d577ead8",
+      "source_sync_only": false,
+      "status": 200
+    },
+    {
+      "expected_sha256": "136a1b73732e5608e41de92c919e028e8d97673b9ef84dee30943fa08b634c75",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": "file",
+      "path": "decisions.html",
+      "redirected": false,
+      "sha256": "136a1b73732e5608e41de92c919e028e8d97673b9ef84dee30943fa08b634c75",
+      "source_sync_only": false,
+      "status": 200
+    },
+    {
+      "expected_sha256": "351792b0475dc56cc4d9c44c4197f10c57a27ee6850d45f27ac2de92c2a5d5b7",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": "file",
+      "path": "diagrams.html",
+      "redirected": false,
+      "sha256": "351792b0475dc56cc4d9c44c4197f10c57a27ee6850d45f27ac2de92c2a5d5b7",
+      "source_sync_only": false,
+      "status": 200
+    },
+    {
+      "expected_sha256": "c2d755b3cebfac3142fe705b12c5ae4a33ef90b966c8df0ad116975603818186",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": "file",
+      "path": "dialogue.html",
+      "redirected": false,
+      "sha256": "c2d755b3cebfac3142fe705b12c5ae4a33ef90b966c8df0ad116975603818186",
+      "source_sync_only": false,
+      "status": 200
+    },
+    {
+      "expected_sha256": "3f9e518162844de92a3481931330f675235c4cddc03e474ccb761d6723b06ef2",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": "file",
+      "path": "foundationofthespiritualpathmapped.html",
+      "redirected": false,
+      "sha256": "3f9e518162844de92a3481931330f675235c4cddc03e474ccb761d6723b06ef2",
+      "source_sync_only": false,
+      "status": 200
+    },
+    {
+      "expected_sha256": "8bc1421813a3512d7e389da2f7ed6dc4e3b1b90276cb6cca51e3b55c5b89de40",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": "file",
+      "path": "intentions.html",
+      "redirected": false,
+      "sha256": "8bc1421813a3512d7e389da2f7ed6dc4e3b1b90276cb6cca51e3b55c5b89de40",
+      "source_sync_only": false,
+      "status": 200
+    },
+    {
+      "expected_sha256": "9544e30f3ee2e2d65de1e40238437f4f9b1ac5d1e5e5532686826e2eafb41de4",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": "file",
+      "path": "meaning.html",
+      "redirected": false,
+      "sha256": "9544e30f3ee2e2d65de1e40238437f4f9b1ac5d1e5e5532686826e2eafb41de4",
+      "source_sync_only": false,
+      "status": 200
+    },
+    {
+      "expected_sha256": "99659e83893e7cc2016243da0c4c03499726b0852c752bbb3d4aef0d164d68a3",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": "file",
+      "path": "the-heart.html",
+      "redirected": false,
+      "sha256": "99659e83893e7cc2016243da0c4c03499726b0852c752bbb3d4aef0d164d68a3",
+      "source_sync_only": false,
+      "status": 200
+    },
+    {
+      "expected_sha256": null,
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "dialogue-feed.xml",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "source_sync_only": false,
+      "status": 404
+    }
+  ],
+  "scope": "Meaning, Foundations, Intentions, Heart, Decisions, Dialogue, seven essays, shared gallery script cache key and required new assets; shared live site CSS is verified but not uploaded.",
+  "site": "sgttomas.com",
+  "source_commit": "fdd0f4ab8c8918ed18a09bbe38e3767e584ffeaa",
+  "started_at": "2026-11-07T22:28:22.800636+00:00",
+  "status": "success",
+  "verified_at": "2026-11-07T22:31:09.333243+00:00"
+}
