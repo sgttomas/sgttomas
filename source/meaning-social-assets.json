@@ -1,0 +1,22 @@
+{
+  "and_prays": {
+    "source": "/assets/archive/2a170f8ea4-IMG_20200405_194944071.webp",
+    "source_sha256": "36184deb69d925cd68dc7a7918e1099af426842bc869943937d0094ea8652f93",
+    "rotation_clockwise_degrees": 90,
+    "output": "/assets/images/and-prays-upright.webp",
+    "dimensions": [
+      1350,
+      1800
+    ]
+  },
+  "foundations_thumbnail": {
+    "source": "/assets/images/project-layouts/foundations-counsel.webp",
+    "source_sha256": "2f7d0fde0d05e0de654216154310e43e9db66a7ee50f142af646531fa647998d",
+    "crop": "centred square",
+    "dimensions": [
+      640,
+      640
+    ],
+    "output": "/assets/images/foundations-home-thumbnail.webp"
+  }
+}
