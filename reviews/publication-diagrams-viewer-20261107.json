@@ -1,0 +1,830 @@
+{
+  "authorization": "Owner requested thumbnail gallery beside one focused image with previous/next buttons and click-to-select; 2026-11-07, website - sgttomas session.",
+  "baseline": "e9ce1c1a7ec8b1c600b7d8aee89378dd726ee499",
+  "cleanup": {
+    "browser_token_scratch_cleared": true,
+    "local_deleted": true,
+    "revoked": true
+  },
+  "complete_diff": true,
+  "confirmed_docroot": "/home/sgttiuxx/public_html",
+  "destination_evidence": {
+    "account": "sgttiuxx",
+    "docroot": "/home/sgttiuxx/public_html",
+    "domain": "sgttomas.com",
+    "method": "DomainInfo/domains_data",
+    "relationship": "direct",
+    "server": "https://server321.web-hosting.com:2083"
+  },
+  "files": [
+    {
+      "expected_sha256": "e74b7f4b3659c7669214094de28dc63a108e062d97799330ff6791d2f8b5bb12",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/diagrams-thumbnails/diagram-8d9b4b384af4.webp",
+      "redirected": false,
+      "sha256": "e74b7f4b3659c7669214094de28dc63a108e062d97799330ff6791d2f8b5bb12",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "428619a7b15ba1a351038b4c508afaff2d4a6e306ec255869951021fd086451f",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/diagrams-thumbnails/diagram-e7653f2332af.webp",
+      "redirected": false,
+      "sha256": "428619a7b15ba1a351038b4c508afaff2d4a6e306ec255869951021fd086451f",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "67ac038a1c0a80e2a286ab5c862cb10499ead0b42c68dd37dacce70b48b3074a",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/diagrams-thumbnails/diagram-0c0f60b2e1ac.webp",
+      "redirected": false,
+      "sha256": "67ac038a1c0a80e2a286ab5c862cb10499ead0b42c68dd37dacce70b48b3074a",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "298cca34a207fade14477d6f0ff02e20f1e6f5bcf59c5f57c06474afed723c9a",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/diagrams-thumbnails/diagram-f3ad1e0e1860.webp",
+      "redirected": false,
+      "sha256": "298cca34a207fade14477d6f0ff02e20f1e6f5bcf59c5f57c06474afed723c9a",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "db8352c6d5834d19e45f354ead25883b81a789d808aa94638d47d257ddfcac2c",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/diagrams-thumbnails/diagram-730396f7d7fc.webp",
+      "redirected": false,
+      "sha256": "db8352c6d5834d19e45f354ead25883b81a789d808aa94638d47d257ddfcac2c",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "203758c6dc5d3e75538048c92988c5b0aea2fdce201dc89e964c19afbdcf9cf3",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/diagrams-thumbnails/diagram-7dd703a5f38c.webp",
+      "redirected": false,
+      "sha256": "203758c6dc5d3e75538048c92988c5b0aea2fdce201dc89e964c19afbdcf9cf3",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "707493b87f3858c3f8800b4bcbff077cb792a7c6f610639cc1794661e8e46646",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/diagrams-thumbnails/diagram-e91599ec1c2e.webp",
+      "redirected": false,
+      "sha256": "707493b87f3858c3f8800b4bcbff077cb792a7c6f610639cc1794661e8e46646",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "6c96cd8e597cddb712ef646773ba212e042717db9b6e3839d79f95bfef8321ff",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/diagrams-thumbnails/diagram-4c5aca99cc9c.webp",
+      "redirected": false,
+      "sha256": "6c96cd8e597cddb712ef646773ba212e042717db9b6e3839d79f95bfef8321ff",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "d08ac2b664b37a942f76fda7bec5793230bb4b697032cae3be4dc27f6b1ee25d",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/diagrams-thumbnails/diagram-c354e4b77174.webp",
+      "redirected": false,
+      "sha256": "d08ac2b664b37a942f76fda7bec5793230bb4b697032cae3be4dc27f6b1ee25d",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "80a33a0f86854d76d76aa0bd4c8d7944c178019c2ef7f454e9d39bf45573f74b",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/diagrams-thumbnails/diagram-48f65b41d35d.webp",
+      "redirected": false,
+      "sha256": "80a33a0f86854d76d76aa0bd4c8d7944c178019c2ef7f454e9d39bf45573f74b",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "cf1cfbb5e89af82285066bec04ffaa48c48d5c452ea7df2bc19233275e0d6a7d",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/diagrams-thumbnails/diagram-d06098cf0c8d.webp",
+      "redirected": false,
+      "sha256": "cf1cfbb5e89af82285066bec04ffaa48c48d5c452ea7df2bc19233275e0d6a7d",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "2f8750a5acd7cca1e2d5dc2cae2fe142cc867adeb9e1841190bb89c3bf0dd0fc",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/diagrams-thumbnails/diagram-602299c76ccc.webp",
+      "redirected": false,
+      "sha256": "2f8750a5acd7cca1e2d5dc2cae2fe142cc867adeb9e1841190bb89c3bf0dd0fc",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "157daa5fca5705858a8ee451f5eef7b42bb03bed2ed7eeb24d2573204384b21a",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/diagrams-thumbnails/diagram-222f573728c0.webp",
+      "redirected": false,
+      "sha256": "157daa5fca5705858a8ee451f5eef7b42bb03bed2ed7eeb24d2573204384b21a",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "013becdf8c1bd3c88688322e2eac7b64feeef49866e8c052b5e3e8569d3dca22",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/diagrams-thumbnails/diagram-e40a7e345e92.webp",
+      "redirected": false,
+      "sha256": "013becdf8c1bd3c88688322e2eac7b64feeef49866e8c052b5e3e8569d3dca22",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "4959f78e446d80d8e5847fe1c0b380437e762da81273015ce9f0c2ed26ad3287",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/diagrams-thumbnails/diagram-ee83ffa23729.webp",
+      "redirected": false,
+      "sha256": "4959f78e446d80d8e5847fe1c0b380437e762da81273015ce9f0c2ed26ad3287",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "ad5341f53680df19a44d1ccaa36bbe0749de33e7baf9b5ad0ede2e3675ff5b3c",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/diagrams-thumbnails/diagram-fccb76e1778c.webp",
+      "redirected": false,
+      "sha256": "ad5341f53680df19a44d1ccaa36bbe0749de33e7baf9b5ad0ede2e3675ff5b3c",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "6db145cbcbf3e652642748821fd375f7818663507367b336c8c9694f4c74c52c",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/diagrams-thumbnails/diagram-9bde8f2795d7.webp",
+      "redirected": false,
+      "sha256": "6db145cbcbf3e652642748821fd375f7818663507367b336c8c9694f4c74c52c",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "da1b8a01dedc6a43fac33b1b1e2624852153efc8e47ef42a6e1770c4727605f1",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "text/css",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/diagrams-gallery.css",
+      "redirected": false,
+      "sha256": "da1b8a01dedc6a43fac33b1b1e2624852153efc8e47ef42a6e1770c4727605f1",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "5e9b1de960698d96f39202918cb3a56510090a0ef49fe06124d9ae7cb7eae5d3",
+      "headers": {
+        "content-type": "text/javascript",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/diagrams-gallery.js",
+      "redirected": false,
+      "sha256": "5e9b1de960698d96f39202918cb3a56510090a0ef49fe06124d9ae7cb7eae5d3",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "351792b0475dc56cc4d9c44c4197f10c57a27ee6850d45f27ac2de92c2a5d5b7",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "diagrams.html",
+      "redirected": false,
+      "sha256": "351792b0475dc56cc4d9c44c4197f10c57a27ee6850d45f27ac2de92c2a5d5b7",
+      "status": 200,
+      "verified": true
+    }
+  ],
+  "finished_at": "2026-11-07T21:24:48.646929+00:00",
+  "operations": [
+    {
+      "finished_at": "2026-11-07T21:24:02.397107+00:00",
+      "kind": "mkdir",
+      "path": "/home/sgttiuxx/public_html/assets/images/diagrams-thumbnails",
+      "result": {
+        "events": {
+          "event": 1,
+          "postevent": 1,
+          "preevent": 1
+        },
+        "file_results": [
+          null
+        ]
+      },
+      "started_at": "2026-11-07T21:24:01.618112+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T21:24:04.191719+00:00",
+      "kind": "upload",
+      "path": "assets/images/diagrams-thumbnails/diagram-8d9b4b384af4.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T21:24:02.397696+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T21:24:05.874679+00:00",
+      "kind": "upload",
+      "path": "assets/images/diagrams-thumbnails/diagram-e7653f2332af.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T21:24:04.192310+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T21:24:07.394504+00:00",
+      "kind": "upload",
+      "path": "assets/images/diagrams-thumbnails/diagram-0c0f60b2e1ac.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T21:24:05.875498+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T21:24:08.892352+00:00",
+      "kind": "upload",
+      "path": "assets/images/diagrams-thumbnails/diagram-f3ad1e0e1860.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T21:24:07.395331+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T21:24:10.621282+00:00",
+      "kind": "upload",
+      "path": "assets/images/diagrams-thumbnails/diagram-730396f7d7fc.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T21:24:08.893204+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T21:24:12.122396+00:00",
+      "kind": "upload",
+      "path": "assets/images/diagrams-thumbnails/diagram-7dd703a5f38c.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T21:24:10.622100+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T21:24:13.463950+00:00",
+      "kind": "upload",
+      "path": "assets/images/diagrams-thumbnails/diagram-e91599ec1c2e.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T21:24:12.123337+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T21:24:15.235063+00:00",
+      "kind": "upload",
+      "path": "assets/images/diagrams-thumbnails/diagram-4c5aca99cc9c.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T21:24:13.464784+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T21:24:16.730409+00:00",
+      "kind": "upload",
+      "path": "assets/images/diagrams-thumbnails/diagram-c354e4b77174.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T21:24:15.235716+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T21:24:18.405555+00:00",
+      "kind": "upload",
+      "path": "assets/images/diagrams-thumbnails/diagram-48f65b41d35d.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T21:24:16.731354+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T21:24:19.930014+00:00",
+      "kind": "upload",
+      "path": "assets/images/diagrams-thumbnails/diagram-d06098cf0c8d.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T21:24:18.406423+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T21:24:21.515777+00:00",
+      "kind": "upload",
+      "path": "assets/images/diagrams-thumbnails/diagram-602299c76ccc.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T21:24:19.930990+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T21:24:23.117517+00:00",
+      "kind": "upload",
+      "path": "assets/images/diagrams-thumbnails/diagram-222f573728c0.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T21:24:21.516720+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T21:24:25.703830+00:00",
+      "kind": "upload",
+      "path": "assets/images/diagrams-thumbnails/diagram-e40a7e345e92.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T21:24:23.118410+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T21:24:27.321723+00:00",
+      "kind": "upload",
+      "path": "assets/images/diagrams-thumbnails/diagram-ee83ffa23729.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T21:24:25.704723+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T21:24:28.594532+00:00",
+      "kind": "upload",
+      "path": "assets/images/diagrams-thumbnails/diagram-fccb76e1778c.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T21:24:27.322642+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T21:24:29.919852+00:00",
+      "kind": "upload",
+      "path": "assets/images/diagrams-thumbnails/diagram-9bde8f2795d7.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T21:24:28.595420+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T21:24:31.199354+00:00",
+      "kind": "upload",
+      "path": "assets/diagrams-gallery.css",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T21:24:29.920742+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T21:24:32.486616+00:00",
+      "kind": "upload",
+      "path": "assets/diagrams-gallery.js",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T21:24:31.200162+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T21:24:33.794286+00:00",
+      "kind": "upload",
+      "path": "diagrams.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T21:24:32.487539+00:00",
+      "state": "success"
+    }
+  ],
+  "planned_mkdirs": [
+    "/home/sgttiuxx/public_html/assets/images/diagrams-thumbnails"
+  ],
+  "preflight": [
+    {
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/diagrams-thumbnails/diagram-8d9b4b384af4.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "status": 404
+    },
+    {
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/diagrams-thumbnails/diagram-e7653f2332af.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "status": 404
+    },
+    {
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/diagrams-thumbnails/diagram-0c0f60b2e1ac.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "status": 404
+    },
+    {
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/diagrams-thumbnails/diagram-f3ad1e0e1860.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "status": 404
+    },
+    {
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/diagrams-thumbnails/diagram-730396f7d7fc.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "status": 404
+    },
+    {
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/diagrams-thumbnails/diagram-7dd703a5f38c.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "status": 404
+    },
+    {
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/diagrams-thumbnails/diagram-e91599ec1c2e.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "status": 404
+    },
+    {
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/diagrams-thumbnails/diagram-4c5aca99cc9c.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "status": 404
+    },
+    {
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/diagrams-thumbnails/diagram-c354e4b77174.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "status": 404
+    },
+    {
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/diagrams-thumbnails/diagram-48f65b41d35d.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "status": 404
+    },
+    {
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/diagrams-thumbnails/diagram-d06098cf0c8d.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "status": 404
+    },
+    {
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/diagrams-thumbnails/diagram-602299c76ccc.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "status": 404
+    },
+    {
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/diagrams-thumbnails/diagram-222f573728c0.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "status": 404
+    },
+    {
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/diagrams-thumbnails/diagram-e40a7e345e92.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "status": 404
+    },
+    {
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/diagrams-thumbnails/diagram-ee83ffa23729.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "status": 404
+    },
+    {
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/diagrams-thumbnails/diagram-fccb76e1778c.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "status": 404
+    },
+    {
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/diagrams-thumbnails/diagram-9bde8f2795d7.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "status": 404
+    },
+    {
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/diagrams-gallery.css",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "status": 404
+    },
+    {
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/diagrams-gallery.js",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "status": 404
+    },
+    {
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": "file",
+      "path": "diagrams.html",
+      "redirected": false,
+      "sha256": "c4c2897ab3efe87a564f72042f0031ebd06ab871c11c96cbe945e7546ec71507",
+      "status": 200
+    }
+  ],
+  "scope": "Diagrams focus viewer, gallery CSS/JS and 17 thumbnails; full-size artworks and shared CSS unchanged.",
+  "site": "sgttomas.com",
+  "source_commit": "e72f62c0016b67c215d7e053c45b9a04562c5e05",
+  "started_at": "2026-11-07T21:23:45.529441+00:00",
+  "status": "success",
+  "verified_at": "2026-11-07T21:24:47.679211+00:00"
+}
