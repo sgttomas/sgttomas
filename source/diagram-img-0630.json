@@ -1,0 +1,21 @@
+{
+  "source_sha256": "40f67ed24c10b7c13f11fd8a8bcfd13797302c90652248e323d3f3e9e6d8706f",
+  "original_size": [
+    1500,
+    2000
+  ],
+  "crop": [
+    40,
+    0,
+    1385,
+    2000
+  ],
+  "output": "assets/images/diagram-img-0630.webp",
+  "output_size": [
+    1345,
+    2000
+  ],
+  "output_bytes": 438054,
+  "edits": "Trimmed only the surrounding wall margin; artwork and signature intact. No colour, drawing or perspective changes.",
+  "original_attachment_retained": true
+}
