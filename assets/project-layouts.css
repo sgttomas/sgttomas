@@ -119,7 +119,9 @@
 .story-pages { display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 20px; }
 .story-pages a { display: grid; place-items: center; min-width: 44px; min-height: 44px; border: 1px solid var(--line); text-decoration: none; }
 .story-pages a[aria-current="true"] { background: var(--ink); color: var(--paper); }
-.diagram-controls button:disabled { opacity: .4; cursor: default; }
+.diagram-controls button:disabled,
+.diagram-controls button[aria-disabled="true"] { opacity: .4; cursor: default; }
+.diagram-caption { margin: 14px 0 0; font-size: .9rem; }
 .story-carousel a:focus-visible { outline: 3px solid #305f9c; outline-offset: 3px; }
 .heart-mountain { display: block; max-width: 980px; margin: 64px auto 0; }
 .heart-mountain img { width: 100%; height: auto; }

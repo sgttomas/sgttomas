@@ -9,6 +9,7 @@
   const position = gallery.querySelector('[data-gallery-position]');
   const message = gallery.querySelector('[data-gallery-message]');
   const error = gallery.querySelector('[data-gallery-error]');
+  const caption = gallery.querySelector('[data-focus-caption]');
   const previous = gallery.querySelector('[data-gallery-previous]');
   const next = gallery.querySelector('[data-gallery-next]');
   if (!links.length || !image || !frame || !position || !message || !error || !previous || !next) return;
@@ -25,8 +26,9 @@
       else link.removeAttribute('aria-current');
     });
     position.textContent = `${selected + 1} / ${links.length}`;
-    previous.disabled = !wrap && selected === 0;
-    next.disabled = !wrap && selected === links.length - 1;
+    // Keep the focused control in the tab order when reaching a story's end.
+    previous.setAttribute('aria-disabled', String(!wrap && selected === 0));
+    next.setAttribute('aria-disabled', String(!wrap && selected === links.length - 1));
   };
 
   const show = (index, reveal = false) => {
@@ -48,6 +50,10 @@
       image.alt = link.dataset.description;
       image.width = candidate.naturalWidth;
       image.height = candidate.naturalHeight;
+      if (caption) {
+        caption.textContent = link.dataset.caption || '';
+        caption.hidden = !caption.textContent;
+      }
       displayed = requested;
       frame.setAttribute('aria-busy', 'false');
       message.textContent = `${noun} ${selected + 1} of ${links.length}.`;
@@ -77,13 +83,19 @@
     });
   });
 
-  previous.addEventListener('click', () => show(selected - 1));
-  next.addEventListener('click', () => show(selected + 1));
+  previous.addEventListener('click', () => {
+    if (previous.getAttribute('aria-disabled') !== 'true') show(selected - 1);
+  });
+  next.addEventListener('click', () => {
+    if (next.getAttribute('aria-disabled') !== 'true') show(selected + 1);
+  });
   gallery.addEventListener('keydown', (event) => {
     if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return;
     if (event.key !== 'ArrowLeft' && event.key !== 'ArrowRight') return;
     event.preventDefault();
-    show(selected + (event.key === 'ArrowRight' ? 1 : -1), Boolean(event.target.closest('[data-gallery-item]')));
+    const destination = selected + (event.key === 'ArrowRight' ? 1 : -1);
+    if (!wrap && (destination < 0 || destination >= links.length)) return;
+    show(destination, Boolean(event.target.closest('[data-gallery-item]')));
     if (event.target.closest('[data-gallery-item]')) links[selected].focus({preventScroll: true});
   });
 
