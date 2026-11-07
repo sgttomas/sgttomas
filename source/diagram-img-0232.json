@@ -1,0 +1,16 @@
+{
+  "source_sha256": "d1de088729a1633eeb183b493dd29332f5471d76b00cd549a3edb6ef6d9cb7c7",
+  "original_size": [
+    1500,
+    2000
+  ],
+  "crop": null,
+  "output": "assets/images/diagram-img-0232.webp",
+  "output_size": [
+    1500,
+    2000
+  ],
+  "output_bytes": 591934,
+  "edits": "WebP conversion only; original composition and colours unchanged.",
+  "original_attachment_retained": true
+}
