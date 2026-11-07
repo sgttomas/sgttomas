@@ -1,0 +1,180 @@
+{
+  "format": "WebP",
+  "max_dimensions": [
+    320,
+    400
+  ],
+  "quality": 78,
+  "images": [
+    {
+      "image": "/assets/images/diagram-img-0727.webp",
+      "image_sha256": "8d9b4b384af4660294562eb9eb8729e0e9d05ff353d2e39e24fe2cb956643cc3",
+      "thumbnail": "/assets/images/diagrams-thumbnails/diagram-8d9b4b384af4.webp",
+      "dimensions": [
+        312,
+        400
+      ],
+      "thumbnail_sha256": "e74b7f4b3659c7669214094de28dc63a108e062d97799330ff6791d2f8b5bb12"
+    },
+    {
+      "image": "/assets/images/diagram-img-0630.webp",
+      "image_sha256": "e7653f2332af6c453beb120fc287b4061f88f6c2b0318a19a97bed6921925e90",
+      "thumbnail": "/assets/images/diagrams-thumbnails/diagram-e7653f2332af.webp",
+      "dimensions": [
+        269,
+        400
+      ],
+      "thumbnail_sha256": "428619a7b15ba1a351038b4c508afaff2d4a6e306ec255869951021fd086451f"
+    },
+    {
+      "image": "/assets/images/diagram-img-0232.webp",
+      "image_sha256": "0c0f60b2e1ac42169e1a06017fdd24d32e4915c5d514eba799aba7ee4acdabcd",
+      "thumbnail": "/assets/images/diagrams-thumbnails/diagram-0c0f60b2e1ac.webp",
+      "dimensions": [
+        300,
+        400
+      ],
+      "thumbnail_sha256": "67ac038a1c0a80e2a286ab5c862cb10499ead0b42c68dd37dacce70b48b3074a"
+    },
+    {
+      "image": "/assets/archive/8663b64d56-IMG_20190315_164425772.webp",
+      "image_sha256": "f3ad1e0e18608da48bd7f11f2c6d40219d8d26ed81ee5c5fd5b4b83f0b5c4d6b",
+      "thumbnail": "/assets/images/diagrams-thumbnails/diagram-f3ad1e0e1860.webp",
+      "dimensions": [
+        225,
+        400
+      ],
+      "thumbnail_sha256": "298cca34a207fade14477d6f0ff02e20f1e6f5bcf59c5f57c06474afed723c9a"
+    },
+    {
+      "image": "/assets/archive/c62811a039-image.webp",
+      "image_sha256": "730396f7d7fc79de37703c8bb0a3eaaaa2dbc856e96761e4817cb2494efe82ca",
+      "thumbnail": "/assets/images/diagrams-thumbnails/diagram-730396f7d7fc.webp",
+      "dimensions": [
+        257,
+        400
+      ],
+      "thumbnail_sha256": "db8352c6d5834d19e45f354ead25883b81a789d808aa94638d47d257ddfcac2c"
+    },
+    {
+      "image": "/assets/archive/7a4468e049-image.webp",
+      "image_sha256": "7dd703a5f38c7f8ce656fff2604f7f30230dbee0fae69a9b3cd95c6e983bcf31",
+      "thumbnail": "/assets/images/diagrams-thumbnails/diagram-7dd703a5f38c.webp",
+      "dimensions": [
+        249,
+        400
+      ],
+      "thumbnail_sha256": "203758c6dc5d3e75538048c92988c5b0aea2fdce201dc89e964c19afbdcf9cf3"
+    },
+    {
+      "image": "/assets/archive/d546fb2f3e-IMG_20200405_200923424.webp",
+      "image_sha256": "e91599ec1c2eeddb26c0543b6429803f78bc4d009ff815cb240693b5d9557a2e",
+      "thumbnail": "/assets/images/diagrams-thumbnails/diagram-e91599ec1c2e.webp",
+      "dimensions": [
+        300,
+        400
+      ],
+      "thumbnail_sha256": "707493b87f3858c3f8800b4bcbff077cb792a7c6f610639cc1794661e8e46646"
+    },
+    {
+      "image": "/assets/archive/fac1916cc5-IMG_20210301_151032471_HDR.webp",
+      "image_sha256": "4c5aca99cc9c7b393161b5f2771309565adc204532d84684a7260191e3979276",
+      "thumbnail": "/assets/images/diagrams-thumbnails/diagram-4c5aca99cc9c.webp",
+      "dimensions": [
+        309,
+        400
+      ],
+      "thumbnail_sha256": "6c96cd8e597cddb712ef646773ba212e042717db9b6e3839d79f95bfef8321ff"
+    },
+    {
+      "image": "/assets/archive/266ab23864-IMG_20210228_153920862_2.webp",
+      "image_sha256": "c354e4b77174b3d20a1413a367c9a4dd50fff656cede5d7fc085c68d78c5bb65",
+      "thumbnail": "/assets/images/diagrams-thumbnails/diagram-c354e4b77174.webp",
+      "dimensions": [
+        225,
+        400
+      ],
+      "thumbnail_sha256": "d08ac2b664b37a942f76fda7bec5793230bb4b697032cae3be4dc27f6b1ee25d"
+    },
+    {
+      "image": "/assets/archive/c5ea620fdf-marriage.webp",
+      "image_sha256": "48f65b41d35d778a123580a32aa3b899d7c475caff16b8ca5ffe9bcb1b26fa11",
+      "thumbnail": "/assets/images/diagrams-thumbnails/diagram-48f65b41d35d.webp",
+      "dimensions": [
+        309,
+        400
+      ],
+      "thumbnail_sha256": "80a33a0f86854d76d76aa0bd4c8d7944c178019c2ef7f454e9d39bf45573f74b"
+    },
+    {
+      "image": "/assets/archive/b93758d275-IMG_20190101_101038445.webp",
+      "image_sha256": "d06098cf0c8d31e6c82952e9be9fca7b017094bc1f038540524390645ec78280",
+      "thumbnail": "/assets/images/diagrams-thumbnails/diagram-d06098cf0c8d.webp",
+      "dimensions": [
+        225,
+        400
+      ],
+      "thumbnail_sha256": "cf1cfbb5e89af82285066bec04ffaa48c48d5c452ea7df2bc19233275e0d6a7d"
+    },
+    {
+      "image": "/assets/archive/16f387e6ea-IMG_5357.webp",
+      "image_sha256": "602299c76ccc62cc0b5c8f6b1134052cfc8b084ae46a26a972faf6ed4918dd58",
+      "thumbnail": "/assets/images/diagrams-thumbnails/diagram-602299c76ccc.webp",
+      "dimensions": [
+        236,
+        400
+      ],
+      "thumbnail_sha256": "2f8750a5acd7cca1e2d5dc2cae2fe142cc867adeb9e1841190bb89c3bf0dd0fc"
+    },
+    {
+      "image": "/assets/archive/c761a5af3d-IMG_20181108_171117376.webp",
+      "image_sha256": "222f573728c005d7aff58bc7375b8f0535971eca9af8228b5dea60c8f86f5228",
+      "thumbnail": "/assets/images/diagrams-thumbnails/diagram-222f573728c0.webp",
+      "dimensions": [
+        300,
+        400
+      ],
+      "thumbnail_sha256": "157daa5fca5705858a8ee451f5eef7b42bb03bed2ed7eeb24d2573204384b21a"
+    },
+    {
+      "image": "/assets/archive/67b5807bd3-IMG_20210301_224339695_2.webp",
+      "image_sha256": "e40a7e345e922b81c838ea2e616129af29ffbfb4fba0c149c5b432b609b2a801",
+      "thumbnail": "/assets/images/diagrams-thumbnails/diagram-e40a7e345e92.webp",
+      "dimensions": [
+        320,
+        284
+      ],
+      "thumbnail_sha256": "013becdf8c1bd3c88688322e2eac7b64feeef49866e8c052b5e3e8569d3dca22"
+    },
+    {
+      "image": "/assets/archive/8d9dec2b7f-IMG_20200314_223626554.webp",
+      "image_sha256": "ee83ffa23729ee38faecc2dc702c6c3fbd90538924d6c622f1d098dc8fd1c588",
+      "thumbnail": "/assets/images/diagrams-thumbnails/diagram-ee83ffa23729.webp",
+      "dimensions": [
+        320,
+        357
+      ],
+      "thumbnail_sha256": "4959f78e446d80d8e5847fe1c0b380437e762da81273015ce9f0c2ed26ad3287"
+    },
+    {
+      "image": "/assets/archive/57057adb6d-IMG_0878.webp",
+      "image_sha256": "fccb76e1778cf1ae9cc3d1a9ba132f654e4ed11fc22348860989dd16507cdd5b",
+      "thumbnail": "/assets/images/diagrams-thumbnails/diagram-fccb76e1778c.webp",
+      "dimensions": [
+        320,
+        240
+      ],
+      "thumbnail_sha256": "ad5341f53680df19a44d1ccaa36bbe0749de33e7baf9b5ad0ede2e3675ff5b3c"
+    },
+    {
+      "image": "/assets/archive/1cdebb78b3-IMG_0876.webp",
+      "image_sha256": "9bde8f2795d7d738a0e4398acefef7a27b98c0d5422d6cebf1872f5affcef9e3",
+      "thumbnail": "/assets/images/diagrams-thumbnails/diagram-9bde8f2795d7.webp",
+      "dimensions": [
+        320,
+        240
+      ],
+      "thumbnail_sha256": "6db145cbcbf3e652642748821fd375f7818663507367b336c8c9694f4c74c52c"
+    }
+  ]
+}
