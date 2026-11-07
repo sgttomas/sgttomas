@@ -1,0 +1,138 @@
+.gallery-page .diagram-page {
+  max-width: 1280px;
+}
+
+.diagram-gallery {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(220px, 280px);
+  align-items: start;
+  gap: clamp(24px, 4vw, 64px);
+}
+
+.diagram-focus {
+  position: sticky;
+  top: 24px;
+  min-width: 0;
+}
+
+.diagram-focus figure {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 320px;
+  height: min(68svh, 800px);
+  margin: 0;
+  background: #f7f7f5;
+}
+
+.diagram-focus-image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.diagram-controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding-top: 18px;
+}
+
+.diagram-controls button {
+  min-height: 44px;
+  padding: 8px 14px;
+  border: 1px solid var(--line, #dedede);
+  border-radius: 0;
+  background: var(--paper, #fff);
+  color: var(--ink, #171717);
+  font: inherit;
+  font-size: .9rem;
+  cursor: pointer;
+}
+
+.diagram-controls button:hover {
+  border-color: var(--ink, #171717);
+}
+
+.diagram-position {
+  margin: 0;
+  font-size: .85rem;
+  color: var(--muted, #717171);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.diagram-thumbnails {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.diagram-thumbnail {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 3 / 4;
+  min-width: 0;
+  padding: 5px;
+  border: 2px solid transparent;
+  background: #f7f7f5;
+  text-decoration: none;
+}
+
+.diagram-thumbnail img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.diagram-thumbnail:hover {
+  border-color: #aaa;
+}
+
+.diagram-thumbnail[aria-current="true"] {
+  border-color: var(--ink, #171717);
+}
+
+.diagram-thumbnail:focus-visible,
+.diagram-controls button:focus-visible {
+  outline: 3px solid #305f9c;
+  outline-offset: 3px;
+}
+
+.diagram-message {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.diagram-error {
+  margin: 14px 0 0;
+  font-size: .9rem;
+}
+
+@media (max-width: 720px) {
+  .diagram-gallery {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 28px;
+  }
+
+  .diagram-focus {
+    position: static;
+  }
+
+  .diagram-focus figure {
+    min-height: 260px;
+    height: min(62svh, 620px);
+  }
+
+  .diagram-thumbnails {
+    gap: 12px;
+  }
+}
