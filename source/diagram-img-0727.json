@@ -1,0 +1,20 @@
+{
+  "source_sha256": "8eefce2ccb804192ac514cd75357a2ad661ad6f5a15a44cfefa17e678ae5def6",
+  "original_size": [
+    1500,
+    2000
+  ],
+  "crop": [
+    50,
+    85,
+    1475,
+    1910
+  ],
+  "output": "assets/images/diagram-img-0727.webp",
+  "output_size": [
+    1425,
+    1825
+  ],
+  "output_bytes": 554072,
+  "edits": "Trimmed only the surrounding black photograph margin; no colour, drawing, perspective or content changes. Original attachment retained."
+}

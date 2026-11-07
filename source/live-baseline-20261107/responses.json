@@ -1,0 +1,40 @@
+[
+  {
+    "headers": {
+      "accept-ranges": "bytes",
+      "content-encoding": "br",
+      "content-length": "1000",
+      "content-type": "text/html",
+      "date": "Sat, 07 Nov 2026 20:50:09 GMT",
+      "last-modified": "Mon, 07 Sep 2026 06:12:40 GMT",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "server": "LiteSpeed",
+      "vary": "Accept-Encoding",
+      "x-content-type-options": "nosniff",
+      "x-frame-options": "SAMEORIGIN",
+      "x-turbo-charged-by": "LiteSpeed"
+    },
+    "path": "/diagrams.html",
+    "status": 200
+  },
+  {
+    "headers": {
+      "accept-ranges": "bytes",
+      "cache-control": "public, max-age=604800",
+      "content-encoding": "br",
+      "content-length": "1416",
+      "content-type": "text/css",
+      "date": "Sat, 07 Nov 2026 20:50:09 GMT",
+      "expires": "Sat, 14 Nov 2026 20:50:09 GMT",
+      "last-modified": "Mon, 07 Sep 2026 06:11:54 GMT",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "server": "LiteSpeed",
+      "vary": "Accept-Encoding",
+      "x-content-type-options": "nosniff",
+      "x-frame-options": "SAMEORIGIN",
+      "x-turbo-charged-by": "LiteSpeed"
+    },
+    "path": "/assets/site.css",
+    "status": 200
+  }
+]
