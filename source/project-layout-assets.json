@@ -1,0 +1,146 @@
+{
+  "recovered": {
+    "abyss": {
+      "source": "/downloads/82355ba4f4-Foundations-of-the-Spiritual-Path---mapped.pdf",
+      "source_sha256": "b61783d1be038eb289ba94b131fb94c733d5812d3f0a08f419d0b4fdd19b930d",
+      "page": 7,
+      "render_scale": 3,
+      "rotation_degrees": 90,
+      "output": "/assets/images/project-layouts/the-abyss.webp"
+    },
+    "decisions_detail": {
+      "source": "/assets/archive/09fb87a0da-IMG_20190531_224453294_HDR.webp",
+      "crop": [
+        0,
+        0,
+        1176,
+        864
+      ],
+      "output": "/assets/images/project-layouts/decisions-upper-detail.webp"
+    },
+    "foundation_sources": {
+      "mapped_sha256": "b61783d1be038eb289ba94b131fb94c733d5812d3f0a08f419d0b4fdd19b930d",
+      "original_sha256": "e27a0f5cd2a828785281f3d8571578e38d44d2cf1823243f501275e7dfd6ef2b",
+      "panels": [
+        {
+          "pdf_page": 1,
+          "rotation_degrees": 90,
+          "image": "/assets/images/project-layouts/foundations-roots.webp"
+        },
+        {
+          "pdf_page": 2,
+          "rotation_degrees": 90,
+          "image": "/assets/images/project-layouts/foundations-centre.webp"
+        },
+        {
+          "pdf_page": 3,
+          "rotation_degrees": 90,
+          "image": "/assets/images/project-layouts/foundations-practice.webp"
+        },
+        {
+          "pdf_page": 4,
+          "rotation_degrees": 90,
+          "image": "/assets/images/project-layouts/foundations-counsel.webp"
+        },
+        {
+          "pdf_page": 5,
+          "rotation_degrees": 90,
+          "image": "/assets/images/project-layouts/foundations-warning.webp"
+        },
+        {
+          "pdf_page": 6,
+          "rotation_degrees": 90,
+          "image": "/assets/images/project-layouts/foundations-mercy.webp"
+        },
+        {
+          "pdf_page": 7,
+          "rotation_degrees": 90,
+          "image": "/assets/images/project-layouts/the-abyss.webp"
+        }
+      ],
+      "cover": {
+        "source": "Foundation-Spiritual-Path.pdf",
+        "page": 1,
+        "image": "/assets/images/project-layouts/foundations-text.webp"
+      }
+    }
+  },
+  "intentions_thumbnails": [
+    {
+      "image": "/assets/archive/a2f91b98ce-image.webp",
+      "thumbnail": "/assets/images/intentions-thumbnails/intention-97675966836c.webp"
+    },
+    {
+      "image": "/assets/archive/467657a179-mumin_and_fajir-1-.webp",
+      "thumbnail": "/assets/images/intentions-thumbnails/intention-30e3b72d890e.webp"
+    },
+    {
+      "image": "/assets/archive/fe65116f2d-IMG-20180429-WA0001-281-29.webp",
+      "thumbnail": "/assets/images/intentions-thumbnails/intention-edecff4559c4.webp"
+    },
+    {
+      "image": "/assets/archive/02ac9f25a1-Salat.webp",
+      "thumbnail": "/assets/images/intentions-thumbnails/intention-ebfa8c83410f.webp"
+    },
+    {
+      "image": "/assets/archive/b1b30d71d8-UNSET-.webp",
+      "thumbnail": "/assets/images/intentions-thumbnails/intention-07d92b0fa1ce.webp"
+    },
+    {
+      "image": "/assets/archive/17ca98bb6a-patience-and-haste.webp",
+      "thumbnail": "/assets/images/intentions-thumbnails/intention-86bd8db04716.webp"
+    },
+    {
+      "image": "/assets/archive/a0dde0c3e1-IMG_20120106_110638-1.webp",
+      "thumbnail": "/assets/images/intentions-thumbnails/intention-3151d629ecff.webp"
+    },
+    {
+      "image": "/assets/archive/7d6064a053-love-ALLAH.webp",
+      "thumbnail": "/assets/images/intentions-thumbnails/intention-49339513e845.webp"
+    },
+    {
+      "image": "/assets/archive/93f1562f58-IMG_20120106_111029-1.webp",
+      "thumbnail": "/assets/images/intentions-thumbnails/intention-6463e3ec632a.webp"
+    },
+    {
+      "image": "/assets/archive/be77b690a7-image-asset.webp",
+      "thumbnail": "/assets/images/intentions-thumbnails/intention-113fead7c3cd.webp"
+    },
+    {
+      "image": "/assets/archive/b00526a561-IMG_20190609_233117297_HDR.webp",
+      "thumbnail": "/assets/images/intentions-thumbnails/intention-93ac3d76fcae.webp"
+    },
+    {
+      "image": "/assets/archive/18afc59b70-Tawba.webp",
+      "thumbnail": "/assets/images/intentions-thumbnails/intention-f71c809baf68.webp"
+    },
+    {
+      "image": "/assets/archive/50f80701b4-IMG_20190203_211716907-1-.webp",
+      "thumbnail": "/assets/images/intentions-thumbnails/intention-d6d3af415308.webp"
+    },
+    {
+      "image": "/assets/archive/501915df3b-UNSET-1-.webp",
+      "thumbnail": "/assets/images/intentions-thumbnails/intention-14738d0f418b.webp"
+    },
+    {
+      "image": "/assets/archive/f1a7b0b611-IMG_20190628_005246927_HDR.webp",
+      "thumbnail": "/assets/images/intentions-thumbnails/intention-ee95d7bd9156.webp"
+    },
+    {
+      "image": "/assets/archive/d4226675a2-IMG_20200412_154213021_HDR.webp",
+      "thumbnail": "/assets/images/intentions-thumbnails/intention-45487cb46598.webp"
+    },
+    {
+      "image": "/assets/archive/bc418d5ddd-leaving-what-is-not-of-concern.webp",
+      "thumbnail": "/assets/images/intentions-thumbnails/intention-75e10522e276.webp"
+    },
+    {
+      "image": "/assets/archive/ba72953b99-IMG_20190226_100716897.webp",
+      "thumbnail": "/assets/images/intentions-thumbnails/intention-56d0a4634c1e.webp"
+    },
+    {
+      "image": "/assets/archive/3ba3ac2ddc-IMG_20190715_093101711_HDR.webp",
+      "thumbnail": "/assets/images/intentions-thumbnails/intention-cce7304c8480.webp"
+    }
+  ]
+}
