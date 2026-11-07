@@ -1,4 +1,47 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="Contact ~SGTTOMAS."><title>Contact — ~SGTTOMAS</title><link rel="stylesheet" href="/assets/site.css"></head><body>
-<header class="site-header"><a class="brand" href="/">~SGTTOMAS</a><nav class="site-nav" aria-label="Primary"><a href="/">Home</a><a href="/meaning.html">Meaning</a><a href="/dialogue.html">Dialogue</a><a href="/about.html">About</a><a aria-current="page" href="/contact.html">Contact</a></nav></header>
-<main class="page"><p class="eyebrow">Contact</p><h1>Continue the conversation.</h1><p class="lede">If you want to discuss the work, the Dialogue page offers a place to begin. I’m happy to hear from you either way.</p><a class="contact-link" href="/dialogue.html">Read the dialogue</a></main>
-<footer class="site-footer"><span>© Ryan Tufts</span><a href="/dialogue.html">Read the dialogue</a></footer></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contact — ~SGTTOMAS</title>
+  <meta name="description" content="The images I generate are not specific to, or about anything in particular (usually).  They are how I imagine the path, flow and coherence of matter, energy and life.">
+  <link rel="canonical" href="https://sgttomas.com/contact.html">
+  <link rel="stylesheet" href="/assets/site.css">
+</head>
+<body class="standard">
+  <header class="site-header">
+    <div class="identity">
+      <a class="site-title" href="/index.html">~SGTTOMAS</a>
+      <p class="tagline">an exploration of truth, beauty and the meaning of life</p>
+    </div>
+    <nav class="primary-nav" aria-label="Primary">
+      <a href="/index.html">Home</a>
+      <a href="/about.html">About</a>
+      <a href="/contact.html" aria-current="page">Contact</a>
+      <a href="https://twitter.com/sgttomas_art" rel="noopener">Twitter</a>
+    </nav>
+  </header>
+
+  <main>
+<article class="standard-page"><h1>Contact</h1><div class="archive-content prose centered">
+<p>Use the form below and you can expect a response from me.  If you want to discuss the work there is a Dialogue page where you may find a venue for your thoughts.  Happy to hear from you either way.  Or you can find sgttomas out there….</p>
+</div><form class="contact-form" id="contact-form">
+  <label>Email Address <span aria-hidden="true">*</span><input type="email" name="email" required autocomplete="email"></label>
+  <label>Subject <span aria-hidden="true">*</span><input type="text" name="subject" required></label>
+  <label>Message <span aria-hidden="true">*</span><textarea name="message" rows="8" required></textarea></label>
+  <button type="submit">Submit</button>
+</form>
+<script>
+document.getElementById('contact-form').addEventListener('submit', function (event) {
+  event.preventDefault();
+  const values = new FormData(event.currentTarget);
+  const subject = encodeURIComponent(values.get('subject'));
+  const body = encodeURIComponent(values.get('message') + '
+
+From: ' + values.get('email'));
+  window.location.href = 'mailto:sgttomas@protonmail.com?subject=' + subject + '&body=' + body;
+});
+</script></article>
+  </main>
+</body>
+</html>

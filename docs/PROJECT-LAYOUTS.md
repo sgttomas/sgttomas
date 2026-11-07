@@ -6,8 +6,8 @@ For this update, actual live HTML and CSS were captured under
 new page layouts must retain existing writing and artwork. Shared `assets/site.css`
 was synchronized to its existing live bytes, not redesigned or deployed.
 
-- Meaning: nine square image frames in the owner’s row-major order. Taxonomy and
-  & Prays share the centre square. Original descriptions/downloads remain with
+- Meaning: nine square image frames in the owner’s row-major order. Taxonomy occupies the centre square; upright
+  And Prays occupies the bottom-middle square (updated at the owner’s request). Original descriptions/downloads remain with
   their cards; the closing Islam text remains below the grid.
 - Foundations: 3×3 spatial board, empty lower-left. Top: original text / counsel /
   warning. Middle: roots / central principles / practice. Bottom: empty / mercy /
