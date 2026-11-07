@@ -1,0 +1,127 @@
+{
+  "/meaning.html": {
+    "sha256": "9544e30f3ee2e2d65de1e40238437f4f9b1ac5d1e5e5532686826e2eafb41de4",
+    "headers": {
+      "content-type": "text/html",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "x-content-type-options": "nosniff",
+      "x-frame-options": "SAMEORIGIN"
+    }
+  },
+  "/foundationofthespiritualpathmapped.html": {
+    "sha256": "3f9e518162844de92a3481931330f675235c4cddc03e474ccb761d6723b06ef2",
+    "headers": {
+      "content-type": "text/html",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "x-content-type-options": "nosniff",
+      "x-frame-options": "SAMEORIGIN"
+    }
+  },
+  "/intentions.html": {
+    "sha256": "8bc1421813a3512d7e389da2f7ed6dc4e3b1b90276cb6cca51e3b55c5b89de40",
+    "headers": {
+      "content-type": "text/html",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "x-content-type-options": "nosniff",
+      "x-frame-options": "SAMEORIGIN"
+    }
+  },
+  "/the-heart.html": {
+    "sha256": "99659e83893e7cc2016243da0c4c03499726b0852c752bbb3d4aef0d164d68a3",
+    "headers": {
+      "content-type": "text/html",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "x-content-type-options": "nosniff",
+      "x-frame-options": "SAMEORIGIN"
+    }
+  },
+  "/dialogue.html": {
+    "sha256": "c2d755b3cebfac3142fe705b12c5ae4a33ef90b966c8df0ad116975603818186",
+    "headers": {
+      "content-type": "text/html",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "x-content-type-options": "nosniff",
+      "x-frame-options": "SAMEORIGIN"
+    }
+  },
+  "/decisions.html": {
+    "sha256": "136a1b73732e5608e41de92c919e028e8d97673b9ef84dee30943fa08b634c75",
+    "headers": {
+      "content-type": "text/html",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "x-content-type-options": "nosniff",
+      "x-frame-options": "SAMEORIGIN"
+    }
+  },
+  "/essays/the-true-believer.html": {
+    "sha256": "6581871bb13680fb37b53b96dee03e353c79bdb42c67bf5bcc4a6647d577ead8",
+    "headers": {
+      "content-type": "text/html",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "x-content-type-options": "nosniff",
+      "x-frame-options": "SAMEORIGIN"
+    }
+  },
+  "/essays/my-thoughts-on-humiliation.html": {
+    "sha256": "460614a1354bfb6a2d6e8bca723128b0349a2136344464c5e05e29b1a4f6a92b",
+    "headers": {
+      "content-type": "text/html",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "x-content-type-options": "nosniff",
+      "x-frame-options": "SAMEORIGIN"
+    }
+  },
+  "/essays/islam-is.html": {
+    "sha256": "27c6c9deec1167e36c0c4b267b2ec96c3ad1f5f397b39c835c6841bb2e9182f0",
+    "headers": {
+      "content-type": "text/html",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "x-content-type-options": "nosniff",
+      "x-frame-options": "SAMEORIGIN"
+    }
+  },
+  "/essays/inspirations.html": {
+    "sha256": "d79bd491f0047d31857b2f8a55fbf7f7a524a8954d377cd5330a68dc1d5dbe6f",
+    "headers": {
+      "content-type": "text/html",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "x-content-type-options": "nosniff",
+      "x-frame-options": "SAMEORIGIN"
+    }
+  },
+  "/essays/self-consciousness.html": {
+    "sha256": "811cc6578b528353894c119deaa333689c99b9438004965895e1975c92be4834",
+    "headers": {
+      "content-type": "text/html",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "x-content-type-options": "nosniff",
+      "x-frame-options": "SAMEORIGIN"
+    }
+  },
+  "/essays/exposed.html": {
+    "sha256": "27b07c03ebaae16174d5e1018ed7749d27a2a12f1c39d119db9a6c00c0ba962a",
+    "headers": {
+      "content-type": "text/html",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "x-content-type-options": "nosniff",
+      "x-frame-options": "SAMEORIGIN"
+    }
+  },
+  "/essays/tell-me-what-you-think.html": {
+    "sha256": "3895fa04b58d67fee3c100090e0dfe22e021496038753115b50fae303765f1b1",
+    "headers": {
+      "content-type": "text/html",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "x-content-type-options": "nosniff",
+      "x-frame-options": "SAMEORIGIN"
+    }
+  },
+  "/assets/site.css": {
+    "sha256": "92b33fe3471427b45c8e3c738d810c161df163981629d725a9c5e08608e5529e",
+    "source_sync_only": true
+  },
+  "/diagrams.html": {
+    "sha256": "351792b0475dc56cc4d9c44c4197f10c57a27ee6850d45f27ac2de92c2a5d5b7",
+    "source": "last verified publication"
+  }
+}

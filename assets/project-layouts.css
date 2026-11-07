@@ -1,0 +1,158 @@
+.project-page.project-composition,
+.project-page.intentions-page,
+.project-page.heart-page {
+  max-width: 1280px;
+}
+
+.meaning-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 36px 24px;
+  align-items: start;
+}
+
+.meaning-card {
+  min-width: 0;
+}
+
+.meaning-square {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 1;
+  padding: 10px;
+  background: #f7f7f5;
+}
+
+.meaning-square img,
+.meaning-square a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  object-fit: contain;
+}
+
+.meaning-square.taxonomy-pair {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+
+.meaning-card h2 {
+  min-height: 2.8em;
+  margin: 16px 0 10px;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.meaning-card details {
+  margin-top: 10px;
+  font-size: .9rem;
+}
+
+.meaning-card summary {
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: .2em;
+}
+
+.meaning-card details p:first-of-type { margin-top: 14px; }
+.meaning-card .work-download { font-size: .85rem; }
+.meaning-afterword { max-width: 780px; margin: 48px auto 0; }
+
+.composition-scroll { overflow-x: auto; padding: 4px; }
+.composition-hint { color: var(--muted); font-size: .85rem; }
+.foundation-board {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-areas: "text counsel warning" "roots centre practice" ". mercy abyss";
+  gap: 14px;
+  min-width: 720px;
+}
+
+.foundation-panel {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 4 / 3;
+  padding: 6px;
+  background: #f7f7f5;
+}
+
+.foundation-panel img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.foundation-text { grid-area: text; }
+.foundation-counsel { grid-area: counsel; }
+.foundation-warning { grid-area: warning; }
+.foundation-roots { grid-area: roots; }
+.foundation-centre { grid-area: centre; }
+.foundation-practice { grid-area: practice; }
+.foundation-mercy { grid-area: mercy; }
+.foundation-abyss { grid-area: abyss; }
+
+.heart-studies {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
+  margin-bottom: 64px;
+}
+
+.heart-studies img {
+  width: 100%;
+  height: 420px;
+  object-fit: contain;
+  background: #f7f7f5;
+}
+
+.story-carousel {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+.story-carousel .diagram-focus { position: static; }
+.story-carousel .diagram-focus figure { height: min(72svh, 820px); }
+.story-pages { display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 20px; }
+.story-pages a { display: grid; place-items: center; min-width: 44px; min-height: 44px; border: 1px solid var(--line); text-decoration: none; }
+.story-pages a[aria-current="true"] { background: var(--ink); color: var(--paper); }
+.diagram-controls button:disabled,
+.diagram-controls button[aria-disabled="true"] { opacity: .4; cursor: default; }
+.diagram-caption { margin: 14px 0 0; font-size: .9rem; }
+.story-carousel a:focus-visible { outline: 3px solid #305f9c; outline-offset: 3px; }
+.heart-mountain { display: block; max-width: 980px; margin: 64px auto 0; }
+.heart-mountain img { width: 100%; height: auto; }
+
+.decisions-banner { display: block; margin-bottom: 44px; }
+.decisions-banner img { width: 100%; height: auto; object-fit: contain; }
+.decisions-board {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.45fr) minmax(0, 1fr);
+  grid-template-areas: ". mind ." "call centre coil" ". heart .";
+  align-items: center;
+  gap: 22px;
+  min-width: 660px;
+}
+
+.decisions-board a { display: block; min-width: 0; }
+.decisions-board img { width: 100%; height: auto; }
+.decisions-mind { grid-area: mind; }
+.decisions-call { grid-area: call; }
+.decisions-centre { grid-area: centre; }
+.decisions-coil { grid-area: coil; }
+.decisions-heart { grid-area: heart; }
+
+@media (max-width: 720px) {
+  .meaning-grid { gap: 24px 10px; }
+  .meaning-square { padding: 3px; }
+  .meaning-square.taxonomy-pair { gap: 3px; }
+  .meaning-card h2 { min-height: 6.5em; font-size: .78rem; margin-top: 10px; }
+  .meaning-card details, .meaning-card .work-download { font-size: .76rem; }
+  .heart-studies { gap: 12px; margin-bottom: 44px; }
+  .heart-studies img { height: 260px; }
+  .story-carousel .diagram-focus figure { height: min(65svh, 620px); }
+  .decisions-banner { margin-bottom: 28px; }
+}
