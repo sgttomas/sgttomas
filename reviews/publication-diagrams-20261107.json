@@ -1,0 +1,209 @@
+{
+  "authorization": "Owner requested IMG_0727 upload to Diagrams, then added IMG_0630 and IMG_0232; 2026-11-07, website - sgttomas session.",
+  "baseline": null,
+  "baseline_kind": "captured live Diagrams page, not a whole-site Git baseline",
+  "baseline_sha256": "568d0a597912a338f47a176d26f1dfacd18003e5a0be1a5326f1ffc3d0e79da4",
+  "cleanup": {
+    "browser_token_scratch_cleared": true,
+    "local_deleted": true,
+    "revoked": true
+  },
+  "complete_diff": false,
+  "confirmed_docroot": "/home/sgttiuxx/public_html",
+  "destination_evidence": {
+    "account": "sgttiuxx",
+    "docroot": "/home/sgttiuxx/public_html",
+    "domain": "sgttomas.com",
+    "method": "DomainInfo/domains_data",
+    "relationship": "direct",
+    "server": "https://server321.web-hosting.com:2083"
+  },
+  "files": [
+    {
+      "expected_sha256": "8d9b4b384af4660294562eb9eb8729e0e9d05ff353d2e39e24fe2cb956643cc3",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/diagram-img-0727.webp",
+      "redirected": false,
+      "sha256": "8d9b4b384af4660294562eb9eb8729e0e9d05ff353d2e39e24fe2cb956643cc3",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "e7653f2332af6c453beb120fc287b4061f88f6c2b0318a19a97bed6921925e90",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/diagram-img-0630.webp",
+      "redirected": false,
+      "sha256": "e7653f2332af6c453beb120fc287b4061f88f6c2b0318a19a97bed6921925e90",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "0c0f60b2e1ac42169e1a06017fdd24d32e4915c5d514eba799aba7ee4acdabcd",
+      "headers": {
+        "cache-control": "public, max-age=604800",
+        "content-type": "image/webp",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "assets/images/diagram-img-0232.webp",
+      "redirected": false,
+      "sha256": "0c0f60b2e1ac42169e1a06017fdd24d32e4915c5d514eba799aba7ee4acdabcd",
+      "status": 200,
+      "verified": true
+    },
+    {
+      "expected_sha256": "c4c2897ab3efe87a564f72042f0031ebd06ab871c11c96cbe945e7546ec71507",
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "path": "diagrams.html",
+      "redirected": false,
+      "sha256": "c4c2897ab3efe87a564f72042f0031ebd06ab871c11c96cbe945e7546ec71507",
+      "status": 200,
+      "verified": true
+    }
+  ],
+  "finished_at": "2026-11-07T20:59:42.677382+00:00",
+  "operations": [
+    {
+      "finished_at": "2026-11-07T20:59:24.707649+00:00",
+      "kind": "mkdir",
+      "path": "/home/sgttiuxx/public_html/assets/images",
+      "result": {
+        "events": {
+          "event": 1,
+          "postevent": 1,
+          "preevent": 1
+        },
+        "file_results": [
+          null
+        ]
+      },
+      "started_at": "2026-11-07T20:59:24.009228+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T20:59:29.371068+00:00",
+      "kind": "upload",
+      "path": "assets/images/diagram-img-0727.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T20:59:24.708666+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T20:59:33.500143+00:00",
+      "kind": "upload",
+      "path": "assets/images/diagram-img-0630.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T20:59:29.371561+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T20:59:36.073892+00:00",
+      "kind": "upload",
+      "path": "assets/images/diagram-img-0232.webp",
+      "result": {
+        "confirmed": true,
+        "transport": "binary"
+      },
+      "started_at": "2026-11-07T20:59:33.500995+00:00",
+      "state": "success"
+    },
+    {
+      "finished_at": "2026-11-07T20:59:37.512298+00:00",
+      "kind": "upload",
+      "path": "diagrams.html",
+      "result": {
+        "confirmed": true,
+        "transport": "text"
+      },
+      "started_at": "2026-11-07T20:59:36.075034+00:00",
+      "state": "success"
+    }
+  ],
+  "planned_mkdirs": [
+    "/home/sgttiuxx/public_html/assets/images"
+  ],
+  "preflight": [
+    {
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/diagram-img-0727.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "status": 404
+    },
+    {
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/diagram-img-0630.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "status": 404
+    },
+    {
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": null,
+      "path": "assets/images/diagram-img-0232.webp",
+      "redirected": false,
+      "sha256": "3029688f98f6fafcd28e25f40dff7507b5a949216c8976bc1e0127f7c8324acb",
+      "status": 404
+    },
+    {
+      "headers": {
+        "content-type": "text/html",
+        "referrer-policy": "strict-origin-when-cross-origin",
+        "x-content-type-options": "nosniff",
+        "x-frame-options": "SAMEORIGIN"
+      },
+      "host_type": "file",
+      "path": "diagrams.html",
+      "redirected": false,
+      "sha256": "568d0a597912a338f47a176d26f1dfacd18003e5a0be1a5326f1ffc3d0e79da4",
+      "status": 200
+    }
+  ],
+  "scope": "Diagrams page and three new artworks only; existing live gallery preserved.",
+  "site": "sgttomas.com",
+  "source_commit": "e9ce1c1a7ec8b1c600b7d8aee89378dd726ee499",
+  "started_at": "2026-11-07T20:59:18.785306+00:00",
+  "status": "success",
+  "verified_at": "2026-11-07T20:59:41.767771+00:00"
+}
